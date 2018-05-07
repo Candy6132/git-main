@@ -1,0 +1,50 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Kundun Kalima
+//==================================================================================================================																																																										
+	
+																				
+//=================================================================================
+//Index MapIndex DropFlag  MinMonsterLevel  MaxMonsterLevel
+//=================================================================================
+0
+0	0	0	1000	
+1	0	0	1000														
+2	0	0	1000															
+3	0	0	1000															
+4	0	0	1000															
+5	0	0	1000														
+6	0	0	1000															
+7	0	0	1000														
+8	0	0	1000															
+9	0	0	1000															
+10	0	0	1000															
+end																						
+																					
+//=========================================================================================================================																					
+//EventItemDropRate/1000
+//ItemDropRate/100  ExItemDropRate/1000
+//EventName 	DropZen     EventItemType  EventItemIndex   EventItemLevel  EventItemDropRate 	ItemDropRate ExItemDropRate
+//=========================================================================================================================												
+1
+"none"		1000000		0		0		0		0		50		500													
+end																					
+																					
+//=================================================================================
+//Type Index  MinLevel MaxLevel Skill  Luck  AddOption  Exitemflag
+//=================================================================================
+2																					
+8	29	0	0	0	1	1	1	//Dragon Knight Armor
+8	30	0	0	0	1	1	1	//Venom Mist Armor
+8	31	0	0	0	1	1	1	//Sylphid Ray Armor
+8	33	0	0	0	1	1	1	//Sunlight Armor
+8	32	0	0	0	1	1	1	//Volcano Armor
+0	22	0	0	1	1	1	1	//Bone Blade
+0	23	0	0	1	1	1	1	//Explosion Blade
+5	12	0	0	0	1	1	1	//Grand Viper Staff
+5	11	9	13	0	1	1	1	//Staff of Kundun
+4	21	0	0	1	1	1	1	//Sylph Wind Bow
+2	13	0	0	1	1	1	1	//Divine Scepter of Archangel
+2	14	0	0	1	1	1	1	// Soleil Scepter
+end											

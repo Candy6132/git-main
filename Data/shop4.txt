@@ -1,0 +1,30 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 4 : Wandering Merchant (Near Devias Entrance)
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+7	8	5	0	0	0	0	0	//Brass Helm
+11	8	5	0	0	0	0	0	//Brass Boots
+7	26	5	0	0	0	0	0	//Adamantine Helm
+11	26	5	0	0	0	0	0	//Adamantine Boots
+8	8	5	0	0	0	0	0	//Brass Armor
+10	8	5	0	0	0	0	0	//Brass Gloves
+8	26	5	0	0	0	0	0	//Adamantine Armor
+10	26	5	0	0	0	0	0	//Adamantine Gloves
+9	8	5	0	0	0	0	0	//Brass Pants
+6	10	0	0	1	1	2	0	//Big Round Shield
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	6	0	255	0	0	0	0	//Large Mana Potion
+9	26	5	0	0	0	0	0	//Adamantine Pants
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+
+
+
+
+
+end

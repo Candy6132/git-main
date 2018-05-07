@@ -1,0 +1,45 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: shop 7 : Wizard Shop Devias
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+7	4	5	0	0	0	0	0	//Bone Helm
+7	7	5	0	0	0	0	0	//Sphinx Helm
+5	2	0	0	0	1	2	0	//Serpent Staff
+15	2	0	0	0	0	0	0	//Lightning Scroll
+15	5	0	0	0	0	0	0	//Teleport Scroll
+8	4	5	0	0	0	0	0	//Bone Armor
+8	7	5	0	0	0	0	0	//Sphinx Armor
+15	1	0	0	0	0	0	0	//Meteor Scroll
+15	6	0	0	0	0	0	0	//Ice Scroll
+5	3	0	0	0	1	2	0	//Lightning Staff
+9	4	5	0	0	0	0	0	//Bone Pants
+15	0	0	0	0	0	0	0	//Poison Scroll
+15	4	0	0	0	0	0	0	//Flame Scroll
+9	7	5	0	0	0	0	0	//Sphinx Pants
+11	4	5	0	0	0	0	0	//Bone Boots
+15	0	0	0	0	0	0	0	//Poison Scroll
+15	4	0	0	0	0	0	0	//Flame Scroll
+11	7	5	0	0	0	0	0	//Sphinx Boots
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	6	0	255	0	0	0	0	//Large Mana Potion
+10	4	5	0	0	0	0	0	//Bone Gloves
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+15	7	0	0	0	0	0	0	//Twister Scroll
+15	8	0	0	0	0	0	0	//Evil Spirits Scroll
+10	7	5	0	0	0	0	0	//Sphinx Gloves
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+4	7	2	0	0	0	0	0	//Bolts
+4	7	1	0	0	0	0	0	//Bolts
+14	20	0	0	0	0	0	0	//Remedy of Love
+14	8	0	30	0	0	0	0	//Antidote
+4	15	2	0	0	0	0	0	//Arrows
+4	15	1	0	0	0	0	0	//Arrows
+
+
+
+end

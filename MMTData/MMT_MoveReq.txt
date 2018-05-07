@@ -1,0 +1,43 @@
+//=====================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: MoveReq Expansion Max Warps 50
+//By UnknownCoder configured by muservices.info
+//If you don't like this Just remove the lines here, use this if you want custom warps
+//=====================================================================================
+
+//===========================================================================
+// MapName 	     MapNumber CoordX1 CoordY1 CoordX2 CoordY2 MinLevel Price
+//===========================================================================
+
+Arena			6	72	140	73	181	50	2000
+Valley of Loren 	30	41	36	44	42	100	2000		
+Lorencia		0	133	118	151	135	10	2000
+Noria			3	171	108	177	117	10	2000
+Devias			2	197	35	218	50	20	2000
+Devias2			2	23	27	27	24	20	2500
+Devias3			2	224	231	227	227	20	3000
+Devias4			2	69	181	72	178	20	3500
+Dungeon			1	107	247	110	247	30	3000
+Dungeon2		1	231	126	234	127	40	3500
+Dungeon3		1	3	83	4	86	50	4000
+Atlans			7	14	12	15	13	70	4000
+Atlans2			7	225	53	228	50	80	4500
+Atlans3			7	62	163	68	157	90	5000
+LostTower		4	203	70	213	81	50	5000
+LostTower2		4	241	237	244	238	50	5500
+LostTower3		4	86	166	87	168	50	6000
+LostTower4		4	87	86	88	89	60	6500
+LostTower5 		4	128	53	131	54	60	7000
+LostTower6		4	52	53	55	54	70	7500
+LostTower7		4	8	85	9	87	70	8000
+Aida			33	82	8	87	14	150	8500
+Aida2			33	186	173	190	177	150	8500
+Tarkan			8	187	54	203	69	140	8000
+Tarkan2			8	96	143	100	146	140	8500
+Icarus			10	14	13	16	13	170	10000
+Kanturu 		37	19	217	21	219	160	9000
+Kanturu2		37	205	36	208	41	160	9000
+Kanturu3		38	71	104	72	107	230	12000
+Crywolf			34	228	38	227	47	230	12000
+end

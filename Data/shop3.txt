@@ -1,0 +1,28 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: shop 3 : Harold the Merchant
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	0	0	255	0	0	0	0	//Apple
+6	2	0	0	1	1	2	0	//Kite Shield
+10	5	5	0	0	0	0	0	//Leather Gloves
+14	6	0	255	0	0	0	0	//Large Mana Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+14	8	0	3	0	0	0	0	//Antidote
+7	5	5	0	0	0	0	0	//Leather Helm
+8	5	5	0	0	0	0	0	//Leather Armor
+9	5	5	0	0	0	0	0	//Leather Pants
+11	5	5	0	0	0	0	0	//Leather Boots
+0	1	0	0	0	1	2	0	//Short Sword
+0	2	0	0	1	1	2	0	//Rapier
+1	2	0	0	1	1	2	0	//Double Axe
+1	5	0	0	1	1	2	0	//Battle Axe
+
+end
+

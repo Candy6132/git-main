@@ -1,0 +1,33 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 5 : Potion Girl
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	0	0	255	0	0	0	0	//Apple
+4	7	2	0	0	0	0	0	//Bolts
+4	7	1	0	0	0	0	0	//Bolts
+4	7	0	0	0	0	0	0	//Bolts
+14	9	0	0	0	0	0	0	//Ale
+14	6	0	255	0	0	0	0	//Large Mana Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+14	8	0	30	0	0	0	0	//Antidote
+4	15	2	0	0	0	0	0	//Arrows
+4	15	1	0	0	0	0	0	//Arrows
+4	15	0	0	0	0	0	0	//Arrows
+14	9	0	0	0	0	0	0	//Ale
+13	8	0	0	0	0	2	0	//Ring of Ice
+13	9	0	0	0	0	2	0	//Ring of Poison
+13	12	0	0	0	0	2	0	//Lightning Pendant
+13	13	0	0	0	0	2	0	//Fire Pendant
+13	26	0	0	0	0	2	0	//Pendant of Wind
+13	27	0	0	0	0	2	0	//Pendant of Water
+13	28	0	0	0	0	2	0	//Pendant of Ability
+
+
+end

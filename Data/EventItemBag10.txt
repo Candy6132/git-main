@@ -1,0 +1,113 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Box of Kundun +3
+//==================================================================================================================
+
+
+//=================================================================================
+//Wepons and Shields No Excellence
+///Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+2	10	0	1	0	1	// Great Scepter
+0	31	0	1	0	1	// Rune Blade
+
+//=================================================================================
+//Sets No Excellence
+//Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+7	16	0	0	0	1	// Black Dragon Helm
+7	18	0	0	0	1	// Grand Soul Helm
+7	19	0	0	0	1	// Divine Helm
+7	26	0	0	0	1	// Adamantine Helm
+8	16	0	0	0	1	// Black Dragon Armor
+8	18	0	0	0	1	// Grand Soul Armor
+8	19	0	0	0	1	// Divine Armor
+8	26	0	0	0	1	// Adamantine Armor
+8	15	0	0	0	1	// Storm Crow Armor
+9	16	0	0	0	1	// Black Dragon Pants
+9	18	0	0	0	1	// Grand Soul Pants
+9	19	0	0	0	1	// Divine Pants
+9	26	0	0	0	1	// Adamantine Pants
+9	15	0	0	0	1	// Storm Crow Pants
+10	16	0	0	0	1	// Black Dragon Gloves
+10	18	0	0	0	1	// Grand Soul Gloves
+10	19	0	0	0	1	// Divine Gloves
+10	26	0	0	0	1	// Adamantine Gloves
+10	15	0	0	0	1	// Storm Crow Gloves
+11	16	0	0	0	1	// Black Dragon Boots
+11	18	0	0	0	1	// Grand Soul Boots
+11	19	0	0	0	1	// Divine Boots
+11	26	0	0	0	1	// Adamantine Boots
+11	15	0	0	0	1	// Storm Crow Boots
+
+
+//=================================================================================
+//Wepons and Shields Excellence
+///Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+7	8	0	0	1	1	//Brass Helm
+8	8	0	0	1	1	//Brass Armor
+9	8	0	0	1	1	//Brass Pants
+10	8	0	0	1	1	//Brass Gloves
+11	8	0	0	1	1	//Brass Boots
+7	9	0	0	1	1	//Plate Helm
+8	9	0	0	1	1	//Plate Armor
+9	9	0	0	1	1	//Plate Pants
+10	9	0	0	1	1	//Plate Gloves
+11	9	0	0	1	1	//Plate Boots
+						
+7	12	0	0	1	1	//Spirit Helm
+8	12	0	0	1	1	//Spirit Armor
+9	12	0	0	1	1	//Spirit Pants
+10	12	0	0	1	1	//Spirit Gloves
+11	12	0	0	1	1	//Spirit Boots
+7	13	0	0	1	1	//Wind Helm
+8	13	0	0	1	1	//Wind Armor
+9	13	0	0	1	1	//Wind Pants
+10	13	0	0	1	1	//Wind Gloves
+11	13	0	0	1	1	//Wind Boots
+						
+7	26	0	0	1	1	//Adamantine Helm
+8	26	0	0	1	1	//Adamantine Armor
+9	26	0	0	1	1	//Adamantine Pants
+10	26	0	0	1	1	//Adamantine Gloves
+11	26	0	0	1	1	//Adamantine Boots
+						
+7	7	0	0	1	1	//Sphinx Helm
+8	7	0	0	1	1	//Sphinx Armor
+9	7	0	0	1	1	//Sphinx Pants
+10	7	0	0	1	1	//Sphinx Gloves
+11	7	0	0	1	1	//Sphinx Boots
+						
+6	8	0	1	1	1	//Tower Shield
+6	9	0	1	1	1	//Plate Shield
+6	10	0	1	1	1	//Large Round Shield
+6	11	0	1	1	1	//Serpent Shield
+						
+5	3	0	0	1	1	//Thunder Staff
+5	4	0	0	1	1	//Gordon Staff
+						
+4	4	0	1	1	1	//Silver Bow
+4	5	0	1	1	1	//Tiger Bow
+4	11	0	1	1	1	//Light Cros
+4	12	0	1	1	1	//Serp Cros
+						
+3	7	0	1	1	1	//Berdysh
+						
+2	3	0	1	1	1	//Great Hammer
+2	8	0	1	1	1	//Battle Scepter
+2	9	0	1	1	1	//Master Scepter
+						
+1	4	0	0	1	1	//Elven Axe
+1	5	0	1	1	1	//Battle Axe
+1	6	0	1	1	1	//Nikkea Axe
+						
+0	5	0	1	1	1	//Blade
+0	10	0	1	1	1	//Light Saber
+0	11	0	1	1	1	//Legendary Sword
+0	13	0	1	1	1	//Double Blade
+0	14	0	1	1	1	//Lightning Sword
+						
+13	24	0	0	1	1	//Ring of Magic
+13	28	0	0	1	1	//Pendant of Ability

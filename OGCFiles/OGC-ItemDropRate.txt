@@ -1,0 +1,769 @@
+//-------------------------------------------------------//
+//		Proyecto OGC-Files V. 1.0                //
+//   Version GS 1.00.18 Y GS-CS 1.00.19 Protocolo Eng    //
+//           http://www.ogc-files.com.ar                 //
+//-------------------------------------------------------//
+//                    Code By ElChapu                    //
+//             http://www.ogc-soft.com                   //
+//-------------------------------------------------------//
+//    OGC-Files Team: ElChapu, xCUERVOX, LucasTocxy      //
+//-------------------------------------------------------//
+//=================================================================================================================================
+//Type	Index	Level	Opt	Luck	Skill	Dur	Rate	MonsterMinLvl	MonsterMaxLvl	Exc	Ancient
+//=================================================================================================================================
+
+//=================================================================================================================================
+//								Bali Event
+//=================================================================================================================================
+7	1	0	0	1	0	0	65		52	52		0	5	//Hyon Dragon Armor
+11	1	0	0	1	0	0	65		52	52		0	5	//Hyon Dragon Boots
+10	1	0	0	1	0	0	65		52	52		0	5	//Hyon Dragon Gloves
+0	1	0	0	1	1	0	65		52	52		0	5	//Hyon Lightning Sword
+7	1	0	0	0	0	0	65		52	52		0	5	//Hyon Dragon Armor
+11	1	0	0	0	0	0	65		52	52		0	5	//Hyon Dragon Boots
+10	1	0	0	0	0	0	65		52	52		0	5	//Hyon Dragon Gloves
+0	1	0	0	0	1	0	65		52	52		0	5	//Hyon Lightning Sword
+														
+7	3	0	0	1	0	0	65		52	52		0	5	//Anubis Legendary Helm
+8	3	0	0	1	0	0	65		52	52		0	5	//Anubis Legendary Armor
+10	3	0	0	1	0	0	65		52	52		0	5	//Anubis Legendary Gloves
+7	3	0	0	0	0	0	65		52	52		0	5	//Anubis Legendary Helm
+8	3	0	0	0	0	0	65		52	52		0	5	//Anubis Legendary Armor
+10	3	0	0	0	0	0	65		52	52		0	5	//Anubis Legendary Gloves
+13	21	0	0	0	0	0	65		52	52		0	5	//Anubis Ring of Fire
+														
+7	5	0	0	1	0	0	65		52	52		0	5	//Warrior Leather Helm
+8	5	0	0	1	0	0	65		52	52		0	5	//Warrior Leather Armor
+9	5	0	0	1	0	0	65		52	52		0	5	//Warrior Leather Pants
+11	5	0	0	1	0	0	65		52	52		0	5	//Warrior Leather Boots
+10	5	0	0	1	0	0	65		52	52		0	5	//Warrior Leather Gloves
+2	1	0	0	1	1	0	65		52	52		0	5	//Warrior Morning Star
+7	5	0	0	0	0	0	65		52	52		0	5	//Warrior Leather Helm
+8	5	0	0	0	0	0	65		52	52		0	5	//Warrior Leather Armor
+9	5	0	0	0	0	0	65		52	52		0	5	//Warrior Leather Pants
+11	5	0	0	0	0	0	65		52	52		0	5	//Warrior Leather Boots
+10	5	0	0	0	0	0	65		52	52		0	5	//Warrior Leather Gloves
+2	1	0	0	0	1	0	65		52	52		0	5	//Warrior Morning Star
+13	8	0	0	0	0	0	65		52	52		0	5	//Warrior Ring of ice
+														
+8	0	0	0	1	0	0	65		52	52		0	5	//Hyperion Bronze Armor
+9	0	0	0	1	0	0	65		52	52		0	5	//Hyperion Bronze Pants
+11	0	0	0	1	0	0	65		52	52		0	5	//Hyperion Bronze Boots
+8	0	0	0	0	0	0	65		52	52		0	5	//Hyperion Bronze Armor
+9	0	0	0	0	0	0	65		52	52		0	5	//Hyperion Bronze Pants
+11	0	0	0	0	0	0	65		52	52		0	5	//Hyperion Bronze Boots
+														
+8	6	0	0	1	0	0	65		52	52		0	5	//Eplete Scale Armor
+9	6	0	0	1	0	0	65		52	52		0	5	//Eplete Scale Pants
+7	6	0	0	1	0	0	65		52	52		0	5	//Eplete Scale Helmet
+6	9	0	0	1	0	0	65		52	52		0	5	//Eplete Plate Shield
+8	6	0	0	0	0	0	65		52	52		0	5	//Eplete Scale Armor
+9	6	0	0	0	0	0	65		52	52		0	5	//Eplete Scale Pants
+7	6	0	0	0	0	0	65		52	52		0	5	//Eplete Scale Helmet
+6	9	0	0	0	0	0	65		52	52		0	5	//Eplete Plate Shield
+13	12	0	0	0	0	0	65		52	52		0	5	//Eplete Pendant of Lightning
+														
+8	8	0	0	1	0	0	65		52	52		0	5	//Garuda Brass Armor
+9	8	0	0	1	0	0	65		52	52		0	5	//Garuda Brass Pants
+10	8	0	0	1	0	0	65		52	52		0	5	//Garuda Brass Gloves
+11	8	0	0	1	0	0	65		52	52		0	5	//Garuda Brass Boots
+8	8	0	0	0	0	0	65		52	52		0	5	//Garuda Brass Armor
+9	8	0	0	0	0	0	65		52	52		0	5	//Garuda Brass Pants
+10	8	0	0	0	0	0	65		52	52		0	5	//Garuda Brass Gloves
+11	8	0	0	0	0	0	65		52	52		0	5	//Garuda Brass Boots
+13	13	0	0	0	0	0	65		52	52		0	5	//Garuda Pendant of Fire
+														
+8	9	0	0	1	0	0	65		52	52		0	5	//Kantata Plate Armor
+10	9	0	0	1	0	0	65		52	52		0	5	//Kantata Plate Gloves
+11	9	0	0	1	0	0	65		52	52		0	5	//Kantata Plate Boots
+13	9	0	0	1	0	0	65		52	52		0	5	//Kantata Ring of Poison
+8	9	0	0	0	0	0	65		52	52		0	5	//Kantata Plate Armor
+10	9	0	0	0	0	0	65		52	52		0	5	//Kantata Plate Gloves
+11	9	0	0	0	0	0	65		52	52		0	5	//Kantata Plate Boots
+13	9	0	0	0	0	0	65		52	52		0	5	//Kantata Ring of Poison
+13	23	0	0	0	0	0	65		52	52		0	5	//Kantata Ring of Wind
+														
+8	2	0	0	1	0	0	65		52	52		0	5	//Apollo Pad Armor
+9	2	0	0	1	0	0	65		52	52		0	5	//Apollo Pad Pants
+7	2	0	0	1	0	0	65		52	52		0	5	//Apollo Pad Helm
+10	2	0	0	1	0	0	65		52	52		0	5	//Apollo Pad Gloves
+5	0	0	0	1	0	0	65		52	52		0	5	//Appollo skull staff
+13	25	0	0	1	0	0	65		52	52		0	5	//Apollo Pendant of Ice
+13	24	0	0	0	0	0	65		52	52		0	5	//Apollo Ring of Magic
+8	2	0	0	0	0	0	65		52	52		0	5	//Apollo Pad Armor
+9	2	0	0	0	0	0	65		52	52		0	5	//Apollo Pad Pants
+7	2	0	0	0	0	0	65		52	52		0	5	//Apollo Pad Helm
+10	2	0	0	0	0	0	65		52	52		0	5	//Apollo Pad Gloves
+5	0	0	0	0	0	0	65		52	52		0	5	//Appollo skull staff
+														
+8	4	0	0	1	0	0	65		52	52		0	5	//Evis Bone Armor
+9	4	0	0	1	0	0	65		52	52		0	5	//Evis Bone Pants
+11	4	0	0	1	0	0	65		52	52		0	5	//Evis Bone Boots
+13	26	0	0	0	0	0	65		52	52		0	5	//Evis Pendant of Wind
+8	4	0	0	0	0	0	65		52	52		0	5	//Evis Bone Armor
+9	4	0	0	0	0	0	65		52	52		0	5	//Evis Bone Pants
+11	4	0	0	0	0	0	65		52	52		0	5	//Evis Bone Boots
+														
+7	7	0	0	1	0	0	65		52	52		0	5	//Hera Sphinx Armor
+9	7	0	0	1	0	0	65		52	52		0	5	//Hera Sphinx Pants
+11	7	0	0	1	0	0	65		52	52		0	5	//Hera Sphinx Boots
+10	7	0	0	1	0	0	65		52	52		0	5	//Hera Sphinx Gloves
+7	7	0	0	1	0	0	65		52	52		0	5	//Hera Sphinx Helm
+6	6	0	0	1	0	0	65		52	52		0	5	//Hera Skull Shield
+7	7	0	0	0	0	0	65		52	52		0	5	//Hera Sphinx Armor
+9	7	0	0	0	0	0	65		52	52		0	5	//Hera Sphinx Pants
+11	7	0	0	0	0	0	65		52	52		0	5	//Hera Sphinx Boots
+10	7	0	0	0	0	0	65		52	52		0	5	//Hera Sphinx Gloves
+7	7	0	0	0	0	0	65		52	52		0	5	//Hera Sphinx Helm
+6	6	0	0	0	0	0	65		52	52		0	5	//Hera Skull Shield
+														
+11	10	0	0	1	0	0	65		52	52		0	5	//Ceto Vine Boots
+9	10	0	0	1	0	0	65		52	52		0	5	//Ceto Vine Pants
+10	10	0	0	1	0	0	65		52	52		0	5	//Ceto Vine Gloves
+7	10	0	0	1	0	0	65		52	52		0	5	//Ceto Vine Helm
+0	2	0	0	1	0	0	65		52	52		0	5	//Ceto Rapier Sword
+13	22	0	0	0	0	0	65		52	52		0	5	//Ceto Ring of Earth
+11	10	0	0	0	0	0	65		52	52		0	5	//Ceto Vine Boots
+9	10	0	0	0	0	0	65		52	52		0	5	//Ceto Vine Pants
+10	10	0	0	0	0	0	65		52	52		0	5	//Ceto Vine Gloves
+7	10	0	0	0	0	0	65		52	52		0	5	//Ceto Vine Helm
+0	2	0	0	0	0	0	65		52	52		0	5	//Ceto Rapier Sword
+														
+9	11	0	0	1	0	0	65		52	52		0	5	//Gaia Silk Pants
+8	11	0	0	1	0	0	65		52	52		0	5	//Gaia Silk Armor
+7	11	0	0	1	0	0	65		52	52		0	5	//Gaia Silk Helm
+10	11	0	0	1	0	0	65		52	52		0	5	//Gaia Silk Gloves
+4	9	0	0	1	0	0	65		52	52		0	5	//Gaia Golden Crossbow
+9	11	0	0	0	0	0	65		52	52		0	5	//Gaia Silk Pants
+8	11	0	0	0	0	0	65		52	52		0	5	//Gaia Silk Armor
+7	11	0	0	0	0	0	65		52	52		0	5	//Gaia Silk Helm
+10	11	0	0	0	0	0	65		52	52		0	5	//Gaia Silk Gloves
+4	9	0	0	0	0	0	65		52	52		0	5	//Gaia Golden Crossbow
+														
+7	12	0	0	1	0	0	65		52	52		0	5	//Odin Wind Helm
+8	12	0	0	1	0	0	65		52	52		0	5	//Odin Wind Armor
+9	12	0	0	1	0	0	65		52	52		0	5	//Odin Wind Pants
+10	12	0	0	1	0	0	65		52	52		0	5	//Odin Wind Gloves
+11	12	0	0	1	0	0	65		52	52		0	5	//Odin Wind Boots
+7	12	0	0	0	0	0	65		52	52		0	5	//Odin Wind Helm
+8	12	0	0	0	0	0	65		52	52		0	5	//Odin Wind Armor
+9	12	0	0	0	0	0	65		52	52		0	5	//Odin Wind Pants
+10	12	0	0	0	0	0	65		52	52		0	5	//Odin Wind Gloves
+11	12	0	0	0	0	0	65		52	52		0	5	//Odin Wind Boots
+														
+8	13	0	0	1	0	0	65		52	52		0	5	//Argo Spirit Armor
+9	13	0	0	1	0	0	65		52	52		0	5	//Argo Spirit Pants
+10	13	0	0	1	0	0	65		52	52		0	5	//Argo Spirit Gloves
+8	13	0	0	0	0	0	65		52	52		0	5	//Argo Spirit Armor
+9	13	0	0	0	0	0	65		52	52		0	5	//Argo Spirit Pants
+10	13	0	0	0	0	0	65		52	52		0	5	//Argo Spirit Gloves
+														
+8	14	0	0	1	0	0	65		52	52		0	5	//Gywen guardian Armor
+10	14	0	0	1	0	0	65		52	52		0	5	//Gywen guardian Gloves
+11	14	0	0	1	0	0	65		52	52		0	5	//Gywen guardian Boots
+4	5	0	0	1	0	0	65		52	52		0	5	//Gywen Sliver bow
+13	28	0	0	0	0	0	65		52	52		0	5	//Gywen Pendant of ability
+8	14	0	0	0	0	0	65		52	52		0	5	//Gywen guardian Armor
+10	14	0	0	0	0	0	65		52	52		0	5	//Gywen guardian Gloves
+11	14	0	0	0	0	0	65		52	52		0	5	//Gywen guardian Boots
+4	5	0	0	0	0	0	65		52	52		0	5	//Gywen Sliver bow
+														
+7	15	0	0	1	0	0	65		52	52		0	5	//Gaion Storm Crow Helm
+9	15	0	0	1	0	0	65		52	52		0	5	//Gaion Storm Crow Pants
+8	15	0	0	1	0	0	65		52	52		0	5	//Gaion Storm Crow Armor
+13	27	0	0	0	0	0	65		52	52		0	5	//Gaion Pendant of Water
+7	15	0	0	0	0	0	65		52	52		0	5	//Gaion Storm Crow Helm
+9	15	0	0	0	0	0	65		52	52		0	5	//Gaion Storm Crow Pants
+8	15	0	0	0	0	0	65		52	52		0	5	//Gaion Storm Crow Armor
+
+
+//=================================================================================================================================
+
+
+
+//12	15	0	0	0	0	0	32	    12		200		0	0	//Jewel of Chaos
+//14	13	0	0	0	0	0	32	    25		200		0	0	//Jewel of Bless
+//14	14	0	0	0	0	0	28	    30		200		0	0	//Jewel of Soul
+//14	16	0	0	0	0	0	22	    72		200		0	0	//Jewel of Life
+//14	22	0	0	0	0	0	20	    78		200		0	0	//Jewel of Creation
+//13	14	0	0	0	0	0	16	    78		200		0	0	//Loch's Feather
+//13	14	1	0	0	0	0	12	    78		200		0	0	//Crest of Monarch
+
+14	41	0	0	0	0	0	20	    80		200		0	0	//Gemstone
+14	18	1	0	0	0	0	150	    3		35		0	0	//Devil Key +1
+14	18	2	0	0	0	0	150	    36		46		0	0	//Devil Key +2
+14	18	3	0	0	0	0	150	    47		59		0	0	//Devil Key +3
+14	18	4	0	0	0	0	150	    60		69		0	0	//Devil Key +4
+14	18	5	0	0	0	0	150	    70		79		0	0	//Devil Key +5
+14	18	6	0	0	0	0	150	    80		200		0	0	//Devil Key +6
+
+//Hell Maine Drop:
+0	20	0	0	1	1	0	400	    122		122		0	0	//Knight Blade
+0	24	0	0	1	1	0	250	    122		122		0	0	//Daybreak
+0	25	0	0	1	1	0	250	    122		122		0	0	//Sword Dancer
+0	31	0	0	1	1	0	250	    122		122		0	0	//Rune Blade
+2	15	0	0	1	1	0	320	    122		122		0	0	//Shining Scepter
+4	19	0	0	1	1	0	250	    122		122		0	0	//Great Reign Crossbow
+4	22	0	0	1	1	0	250	    122		122		0	0	//Albatross Bow
+5	9	0	0	1	1	0	250	    122		122		0	0	//Dragon Soul Staff
+5	13	0	0	1	1	0	250	    122		122		0	0	//Platina Staff
+
+//Boss Drop:
+10	21	0	0	1	0	0	165		190	190		1	0	//Red Phoenix Gloves
+10	21	0	0	1	0	0	165		190	190		2	0	//Red Phoenix Gloves
+10	21	0	0	1	0	0	165		190	190		4	0	//Red Phoenix Gloves
+10	21	0	0	1	0	0	165		190	190		8	0	//Red Phoenix Gloves
+10	21	0	0	1	0	0	165		190	190		16	0	//Red Phoenix Gloves
+10	21	0	0	1	0	0	165		190	190		32	0	//Red Phoenix Gloves
+11	21	0	0	1	0	0	165		190	190		1	0	//Red Phoenix Boots
+11	21	0	0	1	0	0	165		190	190		2	0	//Red Phoenix Boots
+11	21	0	0	1	0	0	165		190	190		4	0	//Red Phoenix Boots
+11	21	0	0	1	0	0	165		190	190		8	0	//Red Phoenix Boots
+11	21	0	0	1	0	0	165		190	190		16	0	//Red Phoenix Boots
+11	21	0	0	1	0	0	165		190	190		32	0	//Red Phoenix Boots
+10	22	0	0	1	0	0	165		190	190		1	0	//Dark Side Gloves
+10	22	0	0	1	0	0	165		190	190		2	0	//Dark Side Gloves
+10	22	0	0	1	0	0	165		190	190		4	0	//Dark Side Gloves
+10	22	0	0	1	0	0	165		190	190		8	0	//Dark Side Gloves
+10	22	0	0	1	0	0	165		190	190		16	0	//Dark Side Gloves
+10	22	0	0	1	0	0	165		190	190		32	0	//Dark Side Gloves
+11	22	0	0	1	0	0	165		190	190		1	0	//Dark Side Boots
+11	22	0	0	1	0	0	165		190	190		2	0	//Dark Side Boots
+11	22	0	0	1	0	0	165		190	190		4	0	//Dark Side Boots
+11	22	0	0	1	0	0	165		190	190		8	0	//Dark Side Boots
+11	22	0	0	1	0	0	165		190	190		16	0	//Dark Side Boots
+11	22	0	0	1	0	0	165		190	190		32	0	//Dark Side Boots
+10	24	0	0	1	0	0	165		190	190		1	0	//Nature Gloves
+10	24	0	0	1	0	0	165		190	190		2	0	//Nature Gloves
+10	24	0	0	1	0	0	165		190	190		4	0	//Nature Gloves
+10	24	0	0	1	0	0	165		190	190		8	0	//Nature Gloves
+10	24	0	0	1	0	0	165		190	190		16	0	//Nature Gloves
+10	24	0	0	1	0	0	165		190	190		32	0	//Nature Gloves
+11	24	0	0	1	0	0	165		190	190		1	0	//Nature Boots
+11	24	0	0	1	0	0	165		190	190		2	0	//Nature Boots
+11	24	0	0	1	0	0	165		190	190		4	0	//Nature Boots
+11	24	0	0	1	0	0	165		190	190		8	0	//Nature Boots
+11	24	0	0	1	0	0	165		190	190		16	0	//Nature Boots
+11	24	0	0	1	0	0	165		190	190		32	0	//Nature Boots
+10	28	0	0	1	0	0	165		190	190		1	0	//Dark Master Gloves
+10	28	0	0	1	0	0	165		190	190		2	0	//Dark Master Gloves
+10	28	0	0	1	0	0	165		190	190		4	0	//Dark Master Gloves
+10	28	0	0	1	0	0	165		190	190		8	0	//Dark Master Gloves
+10	28	0	0	1	0	0	165		190	190		16	0	//Dark Master Gloves
+10	28	0	0	1	0	0	165		190	190		32	0	//Dark Master Gloves
+11	28	0	0	1	0	0	165		190	190		1	0	//Dark Master Boots
+11	28	0	0	1	0	0	165		190	190		2	0	//Dark Master Boots
+11	28	0	0	1	0	0	165		190	190		4	0	//Dark Master Boots
+11	28	0	0	1	0	0	165		190	190		8	0	//Dark Master Boots
+11	28	0	0	1	0	0	165		190	190		16	0	//Dark Master Boots
+11	28	0	0	1	0	0	165		190	190		32	0	//Dark Master Boots
+10	23	0	0	1	0	0	165		190	190		1	0	//Hurricane Gloves
+10	23	0	0	1	0	0	165		190	190		2	0	//Hurricane Gloves
+10	23	0	0	1	0	0	165		190	190		4	0	//Hurricane Gloves
+10	23	0	0	1	0	0	165		190	190		8	0	//Hurricane Gloves
+10	23	0	0	1	0	0	165		190	190		16	0	//Hurricane Gloves
+10	23	0	0	1	0	0	165		190	190		32	0	//Hurricane Gloves
+11	23	0	0	1	0	0	165		190	190		1	0	//Hurricane Boots
+11	23	0	0	1	0	0	165		190	190		2	0	//Hurricane Boots
+11	23	0	0	1	0	0	165		190	190		4	0	//Hurricane Boots
+11	23	0	0	1	0	0	165		190	190		8	0	//Hurricane Boots
+11	23	0	0	1	0	0	165		190	190		16	0	//Hurricane Boots
+11	23	0	0	1	0	0	165		190	190		32	0	//Hurricane Boots
+														
+//0	24	0	0	1	1	0	165		190	190		1	0	//Daybreak
+//0	24	0	0	1	1	0	165		190	190		2	0	//Daybreak
+//0	24	0	0	1	1	0	165		190	190		4	0	//Daybreak
+//0	24	0	0	1	1	0	165		190	190		8	0	//Daybreak
+//0	24	0	0	1	1	0	165		190	190		16	0	//Daybreak
+//0	24	0	0	1	1	0	165		190	190		32	0	//Daybreak
+//0	21	0	0	1	1	0	165		190	190		1	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	165		190	190		2	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	165		190	190		4	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	165		190	190		8	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	165		190	190		16	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	165		190	190		32	0	//Dark Reign Blade
+//0	25	0	0	1	1	0	165		190	190		1	0	//Sword Dancer
+//0	25	0	0	1	1	0	165		190	190		2	0	//Sword Dancer
+//0	25	0	0	1	1	0	165		190	190		4	0	//Sword Dancer
+//0	25	0	0	1	1	0	165		190	190		8	0	//Sword Dancer
+//0	25	0	0	1	1	0	165		190	190		16	0	//Sword Dancer
+//0	25	0	0	1	1	0	165		190	190		32	0	//Sword Dancer
+//5	13	0	0	1	0	0	165		190	190		1	0	//Platina Staff
+//5	13	0	0	1	0	0	165		190	190		2	0	//Platina Staff
+//5	13	0	0	1	0	0	165		190	190		4	0	//Platina Staff
+//5	13	0	0	1	0	0	165		190	190		8	0	//Platina Staff
+//5	13	0	0	1	0	0	165		190	190		16	0	//Platina Staff
+//5	13	0	0	1	0	0	165		190	190		32	0	//Platina Staff
+//4	22	0	0	1	1	0	165		190	190		1	0	//Albatross Bow
+//4	22	0	0	1	1	0	165		190	190		2	0	//Albatross Bow
+//4	22	0	0	1	1	0	165		190	190		4	0	//Albatross Bow
+//4	22	0	0	1	1	0	165		190	190		8	0	//Albatross Bow
+//4	22	0	0	1	1	0	165		190	190		16	0	//Albatross Bow
+//4	22	0	0	1	1	0	165		190	190		32	0	//Albatross Bow
+//4	20	0	0	1	1	0	165		190	190		1	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	165		190	190		2	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	165		190	190		4	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	165		190	190		8	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	165		190	190		16	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	165		190	190		32	0	//Arrow Viper Bow
+//2	12	0	0	1	1	0	165		190	190		1	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	165		190	190		2	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	165		190	190		4	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	165		190	190		8	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	165		190	190		16	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	165		190	190		32	0	//Great Lord Scepter
+//0	19	0	0	1	1	0	165		190	190		1	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	165		190	190		2	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	165		190	190		4	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	165		190	190		8	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	165		190	190		16	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	165		190	190		32	0	//Divine Sword of Archangel
+														
+//eventitembag30		Dark Elf												
+7	21	0	0	1	0	0	185		191	191		1	0	//Red Phoenix Helm
+7	21	0	0	1	0	0	185		191	191		2	0	//Red Phoenix Helm
+7	21	0	0	1	0	0	185		191	191		4	0	//Red Phoenix Helm
+7	21	0	0	1	0	0	185		191	191		8	0	//Red Phoenix Helm
+7	21	0	0	1	0	0	185		191	191		16	0	//Red Phoenix Helm
+7	21	0	0	1	0	0	185		191	191		32	0	//Red Phoenix Helm
+9	21	0	0	1	0	0	185		191	191		1	0	//Red Phoenix Pants
+9	21	0	0	1	0	0	185		191	191		2	0	//Red Phoenix Pants
+9	21	0	0	1	0	0	185		191	191		4	0	//Red Phoenix Pants
+9	21	0	0	1	0	0	185		191	191		8	0	//Red Phoenix Pants
+9	21	0	0	1	0	0	185		191	191		16	0	//Red Phoenix Pants
+9	21	0	0	1	0	0	185		191	191		32	0	//Red Phoenix Pants
+7	22	0	0	1	0	0	185		191	191		1	0	//Dark Side Helm
+7	22	0	0	1	0	0	185		191	191		2	0	//Dark Side Helm
+7	22	0	0	1	0	0	185		191	191		4	0	//Dark Side Helm
+7	22	0	0	1	0	0	185		191	191		8	0	//Dark Side Helm
+7	22	0	0	1	0	0	185		191	191		16	0	//Dark Side Helm
+7	22	0	0	1	0	0	185		191	191		32	0	//Dark Side Helm
+9	22	0	0	1	0	0	185		191	191		1	0	//Dark Side Pants
+9	22	0	0	1	0	0	185		191	191		2	0	//Dark Side Pants
+9	22	0	0	1	0	0	185		191	191		4	0	//Dark Side Pants
+9	22	0	0	1	0	0	185		191	191		8	0	//Dark Side Pants
+9	22	0	0	1	0	0	185		191	191		16	0	//Dark Side Pants
+9	22	0	0	1	0	0	185		191	191		32	0	//Dark Side Pants
+7	24	0	0	1	0	0	185		191	191		1	0	//Nature Helm
+7	24	0	0	1	0	0	185		191	191		2	0	//Nature Helm
+7	24	0	0	1	0	0	185		191	191		4	0	//Nature Helm
+7	24	0	0	1	0	0	185		191	191		8	0	//Nature Helm
+7	24	0	0	1	0	0	185		191	191		16	0	//Nature Helm
+7	24	0	0	1	0	0	185		191	191		32	0	//Nature Helm
+9	24	0	0	1	0	0	185		191	191		1	0	//Nature Pants
+9	24	0	0	1	0	0	185		191	191		2	0	//Nature Pants
+9	24	0	0	1	0	0	185		191	191		4	0	//Nature Pants
+9	24	0	0	1	0	0	185		191	191		8	0	//Nature Pants
+9	24	0	0	1	0	0	185		191	191		16	0	//Nature Pants
+9	24	0	0	1	0	0	185		191	191		32	0	//Nature Pants
+7	28	0	0	1	0	0	185		191	191		1	0	//Dark Master Helm
+7	28	0	0	1	0	0	185		191	191		2	0	//Dark Master Helm
+7	28	0	0	1	0	0	185		191	191		4	0	//Dark Master Helm
+7	28	0	0	1	0	0	185		191	191		8	0	//Dark Master Helm
+7	28	0	0	1	0	0	185		191	191		16	0	//Dark Master Helm
+7	28	0	0	1	0	0	185		191	191		32	0	//Dark Master Helm
+9	28	0	0	1	0	0	185		191	191		1	0	//Dark Master Pants
+9	28	0	0	1	0	0	185		191	191		2	0	//Dark Master Pants
+9	28	0	0	1	0	0	185		191	191		4	0	//Dark Master Pants
+9	28	0	0	1	0	0	185		191	191		8	0	//Dark Master Pants
+9	28	0	0	1	0	0	185		191	191		16	0	//Dark Master Pants
+9	28	0	0	1	0	0	185		191	191		32	0	//Dark Master Pants
+9	23	0	0	1	0	0	185		191	191		1	0	//Hurricane Pants
+9	23	0	0	1	0	0	185		191	191		2	0	//Hurricane Pants
+9	23	0	0	1	0	0	185		191	191		4	0	//Hurricane Pants
+9	23	0	0	1	0	0	185		191	191		8	0	//Hurricane Pants
+9	23	0	0	1	0	0	185		191	191		16	0	//Hurricane Pants
+9	23	0	0	1	0	0	185		191	191		32	0	//Hurricane Pants
+														
+//0	24	0	0	1	1	0	185		191	191		1	0	//Daybreak
+//0	24	0	0	1	1	0	185		191	191		2	0	//Daybreak
+//0	24	0	0	1	1	0	185		191	191		4	0	//Daybreak
+//0	24	0	0	1	1	0	185		191	191		8	0	//Daybreak
+//0	24	0	0	1	1	0	185		191	191		16	0	//Daybreak
+//0	24	0	0	1	1	0	185		191	191		32	0	//Daybreak
+//0	21	0	0	1	1	0	185		191	191		1	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	185		191	191		2	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	185		191	191		4	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	185		191	191		8	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	185		191	191		16	0	//Dark Reign Blade
+//0	21	0	0	1	1	0	185		191	191		32	0	//Dark Reign Blade
+//0	25	0	0	1	1	0	185		191	191		1	0	//Sword Dancer
+//0	25	0	0	1	1	0	185		191	191		2	0	//Sword Dancer
+//0	25	0	0	1	1	0	185		191	191		4	0	//Sword Dancer
+//0	25	0	0	1	1	0	185		191	191		8	0	//Sword Dancer
+//0	25	0	0	1	1	0	185		191	191		16	0	//Sword Dancer
+//0	25	0	0	1	1	0	185		191	191		32	0	//Sword Dancer
+//5	13	0	0	1	0	0	185		191	191		1	0	//Platina Staff
+//5	13	0	0	1	0	0	185		191	191		2	0	//Platina Staff
+//5	13	0	0	1	0	0	185		191	191		4	0	//Platina Staff
+//5	13	0	0	1	0	0	185		191	191		8	0	//Platina Staff
+//5	13	0	0	1	0	0	185		191	191		16	0	//Platina Staff
+//5	13	0	0	1	0	0	185		191	191		32	0	//Platina Staff
+//4	22	0	0	1	1	0	185		191	191		1	0	//Albatross Bow
+//4	22	0	0	1	1	0	185		191	191		2	0	//Albatross Bow
+//4	22	0	0	1	1	0	185		191	191		4	0	//Albatross Bow
+//4	22	0	0	1	1	0	185		191	191		8	0	//Albatross Bow
+//4	22	0	0	1	1	0	185		191	191		16	0	//Albatross Bow
+//4	22	0	0	1	1	0	185		191	191		32	0	//Albatross Bow
+//4	20	0	0	1	1	0	185		191	191		1	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	185		191	191		2	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	185		191	191		4	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	185		191	191		8	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	185		191	191		16	0	//Arrow Viper Bow
+//4	20	0	0	1	1	0	185		191	191		32	0	//Arrow Viper Bow
+//2	12	0	0	1	1	0	185		191	191		1	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	185		191	191		2	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	185		191	191		4	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	185		191	191		8	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	185		191	191		16	0	//Great Lord Scepter
+//2	12	0	0	1	1	0	185		191	191		32	0	//Great Lord Scepter
+//0	19	0	0	1	1	0	185		191	191		1	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	185		191	191		2	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	185		191	191		4	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	185		191	191		8	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	185		191	191		16	0	//Divine Sword of Archangel
+//0	19	0	0	1	1	0	185		191	191		32	0	//Divine Sword of Archangel
+														
+//eventitembag18		Erohim												
+8	21	0	0	1	0	0	125		192	192		1	0	//Red Phoenix Armor
+8	21	0	0	1	0	0	125		192	192		2	0	//Red Phoenix Armor
+8	21	0	0	1	0	0	125		192	192		4	0	//Red Phoenix Armor
+8	21	0	0	1	0	0	125		192	192		8	0	//Red Phoenix Armor
+8	21	0	0	1	0	0	125		192	192		16	0	//Red Phoenix Armor
+8	21	0	0	1	0	0	125		192	192		32	0	//Red Phoenix Armor
+8	24	0	0	1	0	0	125		192	192		1	0	//Nature Armor
+8	24	0	0	1	0	0	125		192	192		2	0	//Nature Armor
+8	24	0	0	1	0	0	125		192	192		4	0	//Nature Armor
+8	24	0	0	1	0	0	125		192	192		8	0	//Nature Armor
+8	24	0	0	1	0	0	125		192	192		16	0	//Nature Armor
+8	24	0	0	1	0	0	125		192	192		32	0	//Nature Armor
+8	28	0	0	1	0	0	125		192	192		1	0	//Dark Master Armor
+8	28	0	0	1	0	0	125		192	192		2	0	//Dark Master Armor
+8	28	0	0	1	0	0	125		192	192		4	0	//Dark Master Armor
+8	28	0	0	1	0	0	125		192	192		8	0	//Dark Master Armor
+8	28	0	0	1	0	0	125		192	192		16	0	//Dark Master Armor
+8	28	0	0	1	0	0	125		192	192		32	0	//Dark Master Armor
+8	22	0	0	1	0	0	125		192	192		1	0	//Dark Side Armor
+8	22	0	0	1	0	0	125		192	192		2	0	//Dark Side Armor
+8	22	0	0	1	0	0	125		192	192		4	0	//Dark Side Armor
+8	22	0	0	1	0	0	125		192	192		8	0	//Dark Side Armor
+8	22	0	0	1	0	0	125		192	192		16	0	//Dark Side Armor
+8	22	0	0	1	0	0	125		192	192		32	0	//Dark Side Armor
+8	23	0	0	1	0	0	125		192	192		1	0	//Hurricane Armor
+8	23	0	0	1	0	0	125		192	192		2	0	//Hurricane Armor
+8	23	0	0	1	0	0	125		192	192		4	0	//Hurricane Armor
+8	23	0	0	1	0	0	125		192	192		8	0	//Hurricane Armor
+8	23	0	0	1	0	0	125		192	192		16	0	//Hurricane Armor
+8	23	0	0	1	0	0	125		192	192		32	0	//Hurricane Armor
+														
+0	24	0	0	1	1	0	125		192	192		1	0	//Daybreak
+0	24	0	0	1	1	0	125		192	192		2	0	//Daybreak
+0	24	0	0	1	1	0	125		192	192		4	0	//Daybreak
+0	24	0	0	1	1	0	125		192	192		8	0	//Daybreak
+0	24	0	0	1	1	0	125		192	192		16	0	//Daybreak
+0	24	0	0	1	1	0	125		192	192		32	0	//Daybreak
+0	21	0	0	1	1	0	125		192	192		1	0	//Dark Reign Blade
+0	21	0	0	1	1	0	125		192	192		2	0	//Dark Reign Blade
+0	21	0	0	1	1	0	125		192	192		4	0	//Dark Reign Blade
+0	21	0	0	1	1	0	125		192	192		8	0	//Dark Reign Blade
+0	21	0	0	1	1	0	125		192	192		16	0	//Dark Reign Blade
+0	21	0	0	1	1	0	125		192	192		32	0	//Dark Reign Blade
+0	25	0	0	1	1	0	125		192	192		1	0	//Sword Dancer
+0	25	0	0	1	1	0	125		192	192		2	0	//Sword Dancer
+0	25	0	0	1	1	0	125		192	192		4	0	//Sword Dancer
+0	25	0	0	1	1	0	125		192	192		8	0	//Sword Dancer
+0	25	0	0	1	1	0	125		192	192		16	0	//Sword Dancer
+0	25	0	0	1	1	0	125		192	192		32	0	//Sword Dancer
+5	13	0	0	1	0	0	125		192	192		1	0	//Platina Staff
+5	13	0	0	1	0	0	125		192	192		2	0	//Platina Staff
+5	13	0	0	1	0	0	125		192	192		4	0	//Platina Staff
+5	13	0	0	1	0	0	125		192	192		8	0	//Platina Staff
+5	13	0	0	1	0	0	125		192	192		16	0	//Platina Staff
+5	13	0	0	1	0	0	125		192	192		32	0	//Platina Staff
+4	22	0	0	1	1	0	125		192	192		1	0	//Albatross Bow
+4	22	0	0	1	1	0	125		192	192		2	0	//Albatross Bow
+4	22	0	0	1	1	0	125		192	192		4	0	//Albatross Bow
+4	22	0	0	1	1	0	125		192	192		8	0	//Albatross Bow
+4	22	0	0	1	1	0	125		192	192		16	0	//Albatross Bow
+4	22	0	0	1	1	0	125		192	192		32	0	//Albatross Bow
+4	20	0	0	1	1	0	125		192	192		1	0	//Arrow Viper Bow
+4	20	0	0	1	1	0	125		192	192		2	0	//Arrow Viper Bow
+4	20	0	0	1	1	0	125		192	192		4	0	//Arrow Viper Bow
+4	20	0	0	1	1	0	125		192	192		8	0	//Arrow Viper Bow
+4	20	0	0	1	1	0	125		192	192		16	0	//Arrow Viper Bow
+4	20	0	0	1	1	0	125		192	192		32	0	//Arrow Viper Bow
+2	12	0	0	1	1	0	125		192	192		1	0	//Great Lord Scepter
+2	12	0	0	1	1	0	125		192	192		2	0	//Great Lord Scepter
+2	12	0	0	1	1	0	125		192	192		4	0	//Great Lord Scepter
+2	12	0	0	1	1	0	125		192	192		8	0	//Great Lord Scepter
+2	12	0	0	1	1	0	125		192	192		16	0	//Great Lord Scepter
+2	12	0	0	1	1	0	125		192	192		32	0	//Great Lord Scepter
+0	19	0	0	1	1	0	125		192	192		1	0	//Divine Sword of Archangel
+0	19	0	0	1	1	0	125		192	192		2	0	//Divine Sword of Archangel
+0	19	0	0	1	1	0	125		192	192		4	0	//Divine Sword of Archangel
+0	19	0	0	1	1	0	125		192	192		8	0	//Divine Sword of Archangel
+0	19	0	0	1	1	0	125		192	192		16	0	//Divine Sword of Archangel
+0	19	0	0	1	1	0	125		192	192		32	0	//Divine Sword of Archangel
+														
+//eventitembag33		Nightmare												
+10	29	0	0	1	0	0	165		193	193		1	0	//Dragon Knight Gloves
+10	29	0	0	1	0	0	165		193	193		2	0	//Dragon Knight Gloves
+10	29	0	0	1	0	0	165		193	193		4	0	//Dragon Knight Gloves
+10	29	0	0	1	0	0	165		193	193		8	0	//Dragon Knight Gloves
+10	29	0	0	1	0	0	165		193	193		16	0	//Dragon Knight Gloves
+10	29	0	0	1	0	0	165		193	193		32	0	//Dragon Knight Gloves
+11	29	0	0	1	0	0	165		193	193		1	0	//Dragon Knight Boots
+11	29	0	0	1	0	0	165		193	193		2	0	//Dragon Knight Boots
+11	29	0	0	1	0	0	165		193	193		4	0	//Dragon Knight Boots
+11	29	0	0	1	0	0	165		193	193		8	0	//Dragon Knight Boots
+11	29	0	0	1	0	0	165		193	193		16	0	//Dragon Knight Boots
+11	29	0	0	1	0	0	165		193	193		32	0	//Dragon Knight Boots
+10	30	0	0	1	0	0	165		193	193		1	0	//Venom Mist Gloves
+10	30	0	0	1	0	0	165		193	193		2	0	//Venom Mist Gloves
+10	30	0	0	1	0	0	165		193	193		4	0	//Venom Mist Gloves
+10	30	0	0	1	0	0	165		193	193		8	0	//Venom Mist Gloves
+10	30	0	0	1	0	0	165		193	193		16	0	//Venom Mist Gloves
+10	30	0	0	1	0	0	165		193	193		32	0	//Venom Mist Gloves
+11	30	0	0	1	0	0	165		193	193		1	0	//Venom Mist Boots
+11	30	0	0	1	0	0	165		193	193		2	0	//Venom Mist Boots
+11	30	0	0	1	0	0	165		193	193		4	0	//Venom Mist Boots
+11	30	0	0	1	0	0	165		193	193		8	0	//Venom Mist Boots
+11	30	0	0	1	0	0	165		193	193		16	0	//Venom Mist Boots
+11	30	0	0	1	0	0	165		193	193		32	0	//Venom Mist Boots
+10	31	0	0	1	0	0	165		193	193		1	0	//Sylphid Ray Gloves
+10	31	0	0	1	0	0	165		193	193		2	0	//Sylphid Ray Gloves
+10	31	0	0	1	0	0	165		193	193		4	0	//Sylphid Ray Gloves
+10	31	0	0	1	0	0	165		193	193		8	0	//Sylphid Ray Gloves
+10	31	0	0	1	0	0	165		193	193		16	0	//Sylphid Ray Gloves
+10	31	0	0	1	0	0	165		193	193		32	0	//Sylphid Ray Gloves
+11	31	0	0	1	0	0	165		193	193		1	0	//Sylphid Ray Boots
+11	31	0	0	1	0	0	165		193	193		2	0	//Sylphid Ray Boots
+11	31	0	0	1	0	0	165		193	193		4	0	//Sylphid Ray Boots
+11	31	0	0	1	0	0	165		193	193		8	0	//Sylphid Ray Boots
+11	31	0	0	1	0	0	165		193	193		16	0	//Sylphid Ray Boots
+11	31	0	0	1	0	0	165		193	193		32	0	//Sylphid Ray Boots
+10	33	0	0	1	0	0	165		193	193		1	0	//Sunlight Gloves
+10	33	0	0	1	0	0	165		193	193		2	0	//Sunlight Gloves
+10	33	0	0	1	0	0	165		193	193		4	0	//Sunlight Gloves
+10	33	0	0	1	0	0	165		193	193		8	0	//Sunlight Gloves
+10	33	0	0	1	0	0	165		193	193		16	0	//Sunlight Gloves
+10	33	0	0	1	0	0	165		193	193		32	0	//Sunlight Gloves
+11	33	0	0	1	0	0	165		193	193		1	0	//Sunlight Boots
+11	33	0	0	1	0	0	165		193	193		2	0	//Sunlight Boots
+11	33	0	0	1	0	0	165		193	193		4	0	//Sunlight Boots
+11	33	0	0	1	0	0	165		193	193		8	0	//Sunlight Boots
+11	33	0	0	1	0	0	165		193	193		16	0	//Sunlight Boots
+11	33	0	0	1	0	0	165		193	193		32	0	//Sunlight Boots
+10	32	0	0	1	0	0	165		193	193		1	0	//Volcano Gloves
+10	32	0	0	1	0	0	165		193	193		2	0	//Volcano Gloves
+10	32	0	0	1	0	0	165		193	193		4	0	//Volcano Gloves
+10	32	0	0	1	0	0	165		193	193		8	0	//Volcano Gloves
+10	32	0	0	1	0	0	165		193	193		16	0	//Volcano Gloves
+10	32	0	0	1	0	0	165		193	193		32	0	//Volcano Gloves
+11	32	0	0	1	0	0	165		193	193		1	0	//Volcano Boots
+11	32	0	0	1	0	0	165		193	193		2	0	//Volcano Boots
+11	32	0	0	1	0	0	165		193	193		4	0	//Volcano Boots
+11	32	0	0	1	0	0	165		193	193		8	0	//Volcano Boots
+11	32	0	0	1	0	0	165		193	193		16	0	//Volcano Boots
+11	32	0	0	1	0	0	165		193	193		32	0	//Volcano Boots
+														
+//0	22	0	0	1	1	0	165		193	193		1	0	//Bone Blade
+//0	22	0	0	1	1	0	165		193	193		2	0	//Bone Blade
+//0	22	0	0	1	1	0	165		193	193		4	0	//Bone Blade
+//0	22	0	0	1	1	0	165		193	193		8	0	//Bone Blade
+//0	22	0	0	1	1	0	165		193	193		16	0	//Bone Blade
+//0	22	0	0	1	1	0	165		193	193		32	0	//Bone Blade
+//0	23	0	0	1	1	0	165		193	193		1	0	//Explosion Blade
+//0	23	0	0	1	1	0	165		193	193		2	0	//Explosion Blade
+//0	23	0	0	1	1	0	165		193	193		4	0	//Explosion Blade
+//0	23	0	0	1	1	0	165		193	193		8	0	//Explosion Blade
+//0	23	0	0	1	1	0	165		193	193		16	0	//Explosion Blade
+//0	23	0	0	1	1	0	165		193	193		32	0	//Explosion Blade
+//5	12	0	0	1	0	0	165		193	193		1	0	//Grand Viper Staff
+//5	12	0	0	1	0	0	165		193	193		2	0	//Grand Viper Staff
+//5	12	0	0	1	0	0	165		193	193		4	0	//Grand Viper Staff
+//5	12	0	0	1	0	0	165		193	193		8	0	//Grand Viper Staff
+//5	12	0	0	1	0	0	165		193	193		16	0	//Grand Viper Staff
+//5	12	0	0	1	0	0	165		193	193		32	0	//Grand Viper Staff
+//4	21	0	0	1	1	0	165		193	193		1	0	//Sylph Wind Bow
+//4	21	0	0	1	1	0	165		193	193		2	0	//Sylph Wind Bow
+//4	21	0	0	1	1	0	165		193	193		4	0	//Sylph Wind Bow
+//4	21	0	0	1	1	0	165		193	193		8	0	//Sylph Wind Bow
+//4	21	0	0	1	1	0	165		193	193		16	0	//Sylph Wind Bow
+//4	21	0	0	1	1	0	165		193	193		32	0	//Sylph Wind Bow
+//2	13	0	0	1	1	0	165		193	193		1	0	//Divine Scepter of Archangel
+//2	13	0	0	1	1	0	165		193	193		2	0	//Divine Scepter of Archangel
+//2	13	0	0	1	1	0	165		193	193		4	0	//Divine Scepter of Archangel
+//2	13	0	0	1	1	0	165		193	193		8	0	//Divine Scepter of Archangel
+//2	13	0	0	1	1	0	165		193	193		16	0	//Divine Scepter of Archangel
+//2	13	0	0	1	1	0	165		193	193		32	0	//Divine Scepter of Archangel
+//2	14	0	0	1	1	0	165		193	193		1	0	//Soleil Scepter
+//2	14	0	0	1	1	0	165		193	193		2	0	//Soleil Scepter
+//2	14	0	0	1	1	0	165		193	193		4	0	//Soleil Scepter
+//2	14	0	0	1	1	0	165		193	193		8	0	//Soleil Scepter
+//2	14	0	0	1	1	0	165		193	193		16	0	//Soleil Scepter
+//2	14	0	0	1	1	0	165		193	193		32	0	//Soleil Scepter
+														
+//eventitembag31		Balgass												
+7	29	0	0	1	0	0	110		194	194		1	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		2	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		4	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		8	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		16	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		32	0	//Dragon Knight Helm
+9	29	0	0	1	0	0	110		194	194		1	0	//Dragon Knight Pants
+7	29	0	0	1	0	0	110		194	194		2	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		4	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		8	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		16	0	//Dragon Knight Helm
+7	29	0	0	1	0	0	110		194	194		32	0	//Dragon Knight Helm
+7	30	0	0	1	0	0	110		194	194		1	0	//Venom Mist Helm
+7	30	0	0	1	0	0	110		194	194		2	0	//Venom Mist Helm
+7	30	0	0	1	0	0	110		194	194		4	0	//Venom Mist Helm
+7	30	0	0	1	0	0	110		194	194		8	0	//Venom Mist Helm
+7	30	0	0	1	0	0	110		194	194		16	0	//Venom Mist Helm
+7	30	0	0	1	0	0	110		194	194		32	0	//Venom Mist Helm
+9	30	0	0	1	0	0	110		194	194		1	0	//Venom Mist Pants
+9	30	0	0	1	0	0	110		194	194		2	0	//Venom Mist Pants
+9	30	0	0	1	0	0	110		194	194		4	0	//Venom Mist Pants
+9	30	0	0	1	0	0	110		194	194		8	0	//Venom Mist Pants
+9	30	0	0	1	0	0	110		194	194		16	0	//Venom Mist Pants
+9	30	0	0	1	0	0	110		194	194		32	0	//Venom Mist Pants
+7	31	0	0	1	0	0	110		194	194		1	0	//Sylphid Ray Helm
+7	31	0	0	1	0	0	110		194	194		2	0	//Sylphid Ray Helm
+7	31	0	0	1	0	0	110		194	194		4	0	//Sylphid Ray Helm
+7	31	0	0	1	0	0	110		194	194		8	0	//Sylphid Ray Helm
+7	31	0	0	1	0	0	110		194	194		16	0	//Sylphid Ray Helm
+7	31	0	0	1	0	0	110		194	194		32	0	//Sylphid Ray Helm
+9	31	0	0	1	0	0	110		194	194		1	0	//Sylphid Ray Pants
+9	31	0	0	1	0	0	110		194	194		2	0	//Sylphid Ray Pants
+9	31	0	0	1	0	0	110		194	194		4	0	//Sylphid Ray Pants
+9	31	0	0	1	0	0	110		194	194		8	0	//Sylphid Ray Pants
+9	31	0	0	1	0	0	110		194	194		16	0	//Sylphid Ray Pants
+9	31	0	0	1	0	0	110		194	194		32	0	//Sylphid Ray Pants
+7	33	0	0	1	0	0	110		194	194		1	0	//Sunlight Helm
+7	33	0	0	1	0	0	110		194	194		2	0	//Sunlight Helm
+7	33	0	0	1	0	0	110		194	194		4	0	//Sunlight Helm
+7	33	0	0	1	0	0	110		194	194		8	0	//Sunlight Helm
+7	33	0	0	1	0	0	110		194	194		16	0	//Sunlight Helm
+7	33	0	0	1	0	0	110		194	194		32	0	//Sunlight Helm
+9	33	0	0	1	0	0	110		194	194		1	0	//Sunlight Pants
+9	33	0	0	1	0	0	110		194	194		2	0	//Sunlight Pants
+9	33	0	0	1	0	0	110		194	194		4	0	//Sunlight Pants
+9	33	0	0	1	0	0	110		194	194		8	0	//Sunlight Pants
+9	33	0	0	1	0	0	110		194	194		16	0	//Sunlight Pants
+9	33	0	0	1	0	0	110		194	194		32	0	//Sunlight Pants
+9	32	0	0	1	0	0	110		194	194		1	0	//Volcano Pants
+9	32	0	0	1	0	0	110		194	194		2	0	//Volcano Pants
+9	32	0	0	1	0	0	110		194	194		4	0	//Volcano Pants
+9	32	0	0	1	0	0	110		194	194		8	0	//Volcano Pants
+9	32	0	0	1	0	0	110		194	194		16	0	//Volcano Pants
+9	32	0	0	1	0	0	110		194	194		32	0	//Volcano Pants
+														
+0	22	0	0	1	1	0	110		194	194		1	0	//Bone Blade
+0	22	0	0	1	1	0	110		194	194		2	0	//Bone Blade
+0	22	0	0	1	1	0	110		194	194		4	0	//Bone Blade
+0	22	0	0	1	1	0	110		194	194		8	0	//Bone Blade
+0	22	0	0	1	1	0	110		194	194		16	0	//Bone Blade
+0	22	0	0	1	1	0	110		194	194		32	0	//Bone Blade
+0	23	0	0	1	1	0	110		194	194		1	0	//Explosion Blade
+0	23	0	0	1	1	0	110		194	194		2	0	//Explosion Blade
+0	23	0	0	1	1	0	110		194	194		4	0	//Explosion Blade
+0	23	0	0	1	1	0	110		194	194		8	0	//Explosion Blade
+0	23	0	0	1	1	0	110		194	194		16	0	//Explosion Blade
+0	23	0	0	1	1	0	110		194	194		32	0	//Explosion Blade
+5	12	0	0	1	0	0	110		194	194		1	0	//Grand Viper Staff
+5	12	0	0	1	0	0	110		194	194		2	0	//Grand Viper Staff
+5	12	0	0	1	0	0	110		194	194		4	0	//Grand Viper Staff
+5	12	0	0	1	0	0	110		194	194		8	0	//Grand Viper Staff
+5	12	0	0	1	0	0	110		194	194		16	0	//Grand Viper Staff
+5	12	0	0	1	0	0	110		194	194		32	0	//Grand Viper Staff
+4	21	0	0	1	1	0	110		194	194		1	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	110		194	194		2	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	110		194	194		4	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	110		194	194		8	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	110		194	194		16	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	110		194	194		32	0	//Sylph Wind Bow
+2	13	0	0	1	1	0	110		194	194		1	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	110		194	194		2	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	110		194	194		4	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	110		194	194		8	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	110		194	194		16	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	110		194	194		32	0	//Divine Scepter of Archangel
+2	14	0	0	1	1	0	110		194	194		1	0	//Soleil Scepter
+2	14	0	0	1	1	0	110		194	194		2	0	//Soleil Scepter
+2	14	0	0	1	1	0	110		194	194		4	0	//Soleil Scepter
+2	14	0	0	1	1	0	110		194	194		8	0	//Soleil Scepter
+2	14	0	0	1	1	0	110		194	194		16	0	//Soleil Scepter
+2	14	0	0	1	1	0	110		194	194		32	0	//Soleil Scepter
+														
+//eventitembag17		Kundun												
+8	29	0	0	1	0	0	150		199	199		1	0	//Dragon Knight Armor
+8	29	0	0	1	0	0	150		199	199		2	0	//Dragon Knight Armor
+8	29	0	0	1	0	0	150		199	199		4	0	//Dragon Knight Armor
+8	29	0	0	1	0	0	150		199	199		8	0	//Dragon Knight Armor
+8	29	0	0	1	0	0	150		199	199		16	0	//Dragon Knight Armor
+8	29	0	0	1	0	0	150		199	199		32	0	//Dragon Knight Armor
+8	30	0	0	1	0	0	150		199	199		1	0	//Venom Mist Armor
+8	30	0	0	1	0	0	150		199	199		2	0	//Venom Mist Armor
+8	30	0	0	1	0	0	150		199	199		4	0	//Venom Mist Armor
+8	30	0	0	1	0	0	150		199	199		8	0	//Venom Mist Armor
+8	30	0	0	1	0	0	150		199	199		16	0	//Venom Mist Armor
+8	30	0	0	1	0	0	150		199	199		32	0	//Venom Mist Armor
+8	31	0	0	1	0	0	150		199	199		1	0	//Sylphid Ray Armor
+8	31	0	0	1	0	0	150		199	199		2	0	//Sylphid Ray Armor
+8	31	0	0	1	0	0	150		199	199		4	0	//Sylphid Ray Armor
+8	31	0	0	1	0	0	150		199	199		8	0	//Sylphid Ray Armor
+8	31	0	0	1	0	0	150		199	199		16	0	//Sylphid Ray Armor
+8	31	0	0	1	0	0	150		199	199		32	0	//Sylphid Ray Armor
+8	33	0	0	1	0	0	150		199	199		1	0	//Sunlight Armor
+8	33	0	0	1	0	0	150		199	199		2	0	//Sunlight Armor
+8	33	0	0	1	0	0	150		199	199		4	0	//Sunlight Armor
+8	33	0	0	1	0	0	150		199	199		8	0	//Sunlight Armor
+8	33	0	0	1	0	0	150		199	199		16	0	//Sunlight Armor
+8	33	0	0	1	0	0	150		199	199		32	0	//Sunlight Armor
+8	32	0	0	1	0	0	150		199	199		1	0	//Volcano Armor
+8	32	0	0	1	0	0	150		199	199		2	0	//Volcano Armor
+8	32	0	0	1	0	0	150		199	199		4	0	//Volcano Armor
+8	32	0	0	1	0	0	150		199	199		8	0	//Volcano Armor
+8	32	0	0	1	0	0	150		199	199		16	0	//Volcano Armor
+8	32	0	0	1	0	0	150		199	199		32	0	//Volcano Armor
+														
+0	22	0	0	1	1	0	150		199	199		1	0	//Bone Blade
+0	22	0	0	1	1	0	150		199	199		2	0	//Bone Blade
+0	22	0	0	1	1	0	150		199	199		4	0	//Bone Blade
+0	22	0	0	1	1	0	150		199	199		8	0	//Bone Blade
+0	22	0	0	1	1	0	150		199	199		16	0	//Bone Blade
+0	22	0	0	1	1	0	150		199	199		32	0	//Bone Blade
+0	23	0	0	1	1	0	150		199	199		1	0	//Explosion Blade
+0	23	0	0	1	1	0	150		199	199		2	0	//Explosion Blade
+0	23	0	0	1	1	0	150		199	199		4	0	//Explosion Blade
+0	23	0	0	1	1	0	150		199	199		8	0	//Explosion Blade
+0	23	0	0	1	1	0	150		199	199		16	0	//Explosion Blade
+0	23	0	0	1	1	0	150		199	199		32	0	//Explosion Blade
+5	12	0	0	1	0	0	150		199	199		1	0	//Grand Viper Staff
+5	12	0	0	1	0	0	150		199	199		2	0	//Grand Viper Staff
+5	12	0	0	1	0	0	150		199	199		4	0	//Grand Viper Staff
+5	12	0	0	1	0	0	150		199	199		8	0	//Grand Viper Staff
+5	12	0	0	1	0	0	150		199	199		16	0	//Grand Viper Staff
+5	12	0	0	1	0	0	150		199	199		32	0	//Grand Viper Staff
+4	21	0	0	1	1	0	150		199	199		1	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	150		199	199		2	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	150		199	199		4	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	150		199	199		8	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	150		199	199		16	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	150		199	199		32	0	//Sylph Wind Bow
+2	13	0	0	1	1	0	150		199	199		1	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	150		199	199		2	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	150		199	199		4	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	150		199	199		8	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	150		199	199		16	0	//Divine Scepter of Archangel
+2	13	0	0	1	1	0	150		199	199		32	0	//Divine Scepter of Archangel
+2	14	0	0	1	1	0	150		199	199		1	0	//Soleil Scepter
+2	14	0	0	1	1	0	150		199	199		2	0	//Soleil Scepter
+2	14	0	0	1	1	0	150		199	199		4	0	//Soleil Scepter
+2	14	0	0	1	1	0	150		199	199		8	0	//Soleil Scepter
+2	14	0	0	1	1	0	150		199	199		16	0	//Soleil Scepter
+2	14	0	0	1	1	0	150		199	199		32	0	//Soleil Scepter
+
+end

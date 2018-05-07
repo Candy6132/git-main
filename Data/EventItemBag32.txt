@@ -1,0 +1,86 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Maya Hands
+//==================================================================================================================
+
+
+//=================================================================================
+//Index MapIndex DropFlag  MinMonsterLevel  MaxMonsterLevel
+//=================================================================================
+0
+0	0	0	1000	
+1	0	0	1000														
+2	0	0	1000															
+3	0	0	1000															
+4	0	0	1000															
+5	0	0	1000														
+6	0	0	1000															
+7	0	0	1000														
+8	0	0	1000															
+9	0	0	1000															
+10	0	0	1000															
+end
+
+//=========================================================================================================================																					
+//EventItemDropRate/1000
+//ItemDropRate/100  ExItemDropRate/1000
+//EventName 	DropZen     EventItemType  EventItemIndex   EventItemLevel  EventItemDropRate 	ItemDropRate ExItemDropRate
+//=========================================================================================================================
+1
+"Maya Hands"	1000000		0		0		0		0		50		500
+end
+
+//=================================================================================
+//Type Index  MinLevel MaxLevel Skill  Luck  AddOption  Exitemflag
+//=================================================================================
+2	
+10	21	0	0	0	7	1	1	//Red Phoenix Gloves
+11	21	0	0	0	7	1	1	//Red Phoenix Boots
+10	22	0	0	0	7	1	1	//Dark Side Gloves
+11	22	0	0	0	7	1	1	//Dark Side Boots
+10	24	0	0	0	7	1	1	//Nature Gloves
+11	24	0	0	0	7	1	1	//Nature Boots
+10	28	0	0	0	7	1	1	//Dark Master Gloves
+11	28	0	0	0	7	1	1	//Dark Master Boots
+10	23	0	0	0	7	1	1	//Hurricane Gloves
+11	23	0	0	0	7	1	1	//Hurricane Boots
+0	24	0	0	1	0	0	1	//Daybreak
+0	21	0	0	1	0	0	1	//Dark Reign Blade
+0	25	0	0	1	0	0	1	//Sword Dancer
+5	13	0	0	0	0	0	1	//Platina Staff
+4	22	0	0	1	0	0	1	//Albatross Bow
+4	20	0	0	1	0	0	1	//Arrow Viper Bow
+2	12	0	0	1	0	0	1	//Great Lord Scepter
+0	19	0	0	1	0	0	1	//Divine Sword of Archangel
+								
+//10	29	7	9	0	7	1	0	//Dragon Knight Gloves
+//11	29	7	9	0	7	1	0	//Dragon Knight Boots
+//10	30	7	9	0	7	1	0	//Venom Mist Gloves
+//11	30	7	9	0	7	1	0	//Venom Mist Boots
+//10	31	7	9	0	7	1	0	//Sylphid Ray Gloves
+//11	31	7	9	0	7	1	0	//Sylphid Ray Boots
+//10	33	7	9	0	7	1	0	//Sunlight Gloves
+//11	33	7	9	0	7	1	0	//Sunlight Boots
+//10	32	7	9	0	7	1	0	//Volcano Gloves
+//11	32	7	9	0	7	1	0	//Volcano Boots
+//7	29	7	9	0	7	1	0	//Dragon Knight Helm
+//9	29	7	9	0	7	1	0	//Dragon Knight Pants
+//7	30	7	9	0	7	1	0	//Venom Mist Helm
+//9	30	7	9	0	7	1	0	//Venom Mist Pants
+//7	31	7	9	0	7	1	0	//Sylphid Ray Helm
+//9	31	7	9	0	7	1	0	//Sylphid Ray Pants
+//7	33	7	9	0	7	1	0	//Sunlight Helm
+//9	33	7	9	0	7	1	0	//Sunlight Pants
+//9	32	7	9	0	7	1	0	//Volcano Pants
+//8	29	7	9	0	7	1	0	//Dragon Knight Armor
+//8	30	7	9	0	7	1	0	//Venom Mist Armor
+//8	31	7	9	0	7	1	0	//Sylphid Ray Armor
+//8	33	7	9	0	7	1	0	//Sunlight Armor
+//8	32	7	9	0	7	1	0	//Volcano Armor
+//0	22	7	9	1	7	1	0	//Bone Blade
+//0	23	7	9	1	7	1	0	//Explosion Blade
+//5	12	7	9	0	7	1	0	//Grand Viper Staff
+//4	21	7	9	1	7	1	0	//Sylph Wind Bow
+//2	13	7	9	1	7	1	0	//Divine Scepter of Archangel
+end

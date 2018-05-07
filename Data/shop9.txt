@@ -1,0 +1,23 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: shop 9 : Noria Eo the Craftsman
+//==================================================================================================================
+
+
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+4	7	0	0	0	0	0	0	//Bolts
+4	7	1	0	0	0	0	0	//Bolts
+4	7	2	0	0	0	0	0	//Bolts
+4	15	0	0	0	0	0	0	//Arrows
+4	15	1	0	0	0	0	0	//Arrows
+4	15	2	0	0	0	0	0	//Arrows
+4	0	5	0	1	1	0	0	//Short Bow
+4	8	5	0	1	1	0	0	//Crossbow
+4	1	5	0	1	1	0	0	//Bow
+4	9	5	0	1	1	0	0	//Golden Crossbow
+4	10	0	0	1	1	2	0	//Arquebus
+4	2	5	0	1	1	0	0	//Elven Bow
+
+end

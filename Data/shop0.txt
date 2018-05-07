@@ -1,0 +1,29 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 0 : Hanzo the BlackSmith
+//==================================================================================================================
+
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+7	0	5	0	0	0	0	0	//Bronze Helm
+7	25	5	0	0	0	0	0	//Light Plate Helm
+6	4	0	0	1	1	2	0	//Bucker
+2	1	0	0	1	1	2	0	//Morning Star
+1	3	0	0	1	1	2	0	//Tomahawk
+8	0	5	0	0	0	0	0	//Bronze Armor
+8	25	5	0	0	0	0	0	//Light Plate Armor
+6	5	0	0	1	1	2	0	//Dragon Slayer
+2	8	0	0	1	1	2	0	//Battle Scepter
+2	9	0	0	1	1	2	0	//Master Scepter
+9	0	5	0	0	0	0	0	//Bronze Pants
+0	3	0	0	1	1	2	0	//Katache
+0	5	0	0	1	1	2	0	//Blade
+9	25	5	0	0	0	0	0	//Light Plate Pants
+11	0	5	0	0	0	0	0	//Bronze Boots
+10	25	5	0	0	0	0	0	//Light Plate Gloves
+11	25	5	0	0	0	0	0	//Light Plate Boots
+10	0	5	0	0	0	0	0	//Bronze Gloves
+
+
+end

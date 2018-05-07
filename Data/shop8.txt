@@ -1,0 +1,40 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: shop 8 : Zienna Wepon Merchant
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+7	26	5	0	0	0	0	0	//Adamantine Helm
+7	8	5	0	0	0	0	0	//Brass Helm
+7	13	5	0	0	0	0	0	//Spirit Helm
+0	14	0	0	1	1	2	0	//Heliacal Sword
+8	26	5	0	0	0	0	0	//Adamantine Armor
+8	8	5	0	0	0	0	0	//Brass Armor
+8	13	5	0	0	0	0	0	//Spirit Armor
+2	3	0	0	1	1	2	0	//Great Hammer
+9	8	5	0	0	0	0	0	//Brass Pants
+9	13	5	0	0	0	0	0	//Spirit Pants
+9	26	5	0	0	0	0	0	//Adamantine Pants
+11	8	5	0	0	0	0	0	//Brass Boots
+11	13	5	0	0	0	0	0	//Spirit Boots
+1	6	0	0	1	1	2	0	//Nikkea Axe
+11	26	5	0	0	0	0	0	//Adamantine Boots
+10	8	5	0	0	0	0	0	//Brass Gloves
+10	13	5	0	0	0	0	0	//Spirit Gloves
+10	26	5	0	0	0	0	0	//Adamantine Gloves
+4	3	0	0	1	1	2	0	//Battle Bow
+6	5	0	0	1	1	2	0	//Dragon Slayer
+6	10	0	0	1	1	2	0	//Big Round Shield
+3	7	0	0	1	1	2	0	//Bardiche
+2	8	0	0	1	1	2	0	//Battle Scepter
+2	9	0	0	1	1	2	0	//Master Scepter
+4	7	0	0	0	0	0	0	//Bolts
+4	15	0	0	0	0	0	0	//Arrows
+4	11	0	0	1	1	2	0	//Light Crossbow
+4	7	1	0	0	0	0	0	//Bolts
+4	15	1	0	0	0	0	0	//Arrows
+4	7	2	0	0	0	0	0	//Bolts
+4	15	2	0	0	0	0	0	//Arrows
+
+end

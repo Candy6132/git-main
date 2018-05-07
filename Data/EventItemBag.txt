@@ -1,0 +1,45 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Box of Luck and Heaven
+//==================================================================================================================
+
+
+//=================================================================================
+//Wepons and Shields
+//Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+
+
+//=================================================================================
+//Sets
+//Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+
+
+//=================================================================================
+//Miscellaneous
+//Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+13 	8 	2 	0 	0 	2	//Ring of Ice
+13 	21 	2 	0 	0 	2 	//Ring of Fire
+13 	9 	2 	0 	0 	2 	//Ring of Fire
+
+13 	25 	2 	0 	0 	2	//Pedant of Ice
+13 	12 	2 	0 	0 	2	//Pedant of Fire
+13 	13 	2 	0 	0 	2	//Pedant of Lighting
+
+13 	0 	0 	0 	0 	0	//Imp
+13 	1 	0 	0 	0 	0	//Angel
+
+12 	15 	0 	0 	0 	0 	//Jewel of Chaos
+12 	15 	0 	0 	0 	0 	//Jewel of Chaos
+14 	13 	0 	0 	0 	0 	//Jewel of Bless // Więcej blessów mniej chaosów/joli
+14 	13 	0 	0 	0 	0 	//Jewel of Bless
+14 	13 	0 	0 	0 	0 	//Jewel of Bless
+14 	14 	0 	0 	0 	0 	//Jewel of Soul // Więcej souli mniej chaosów joli
+14 	14 	0 	0 	0 	0 	//Jewel of Soul
+14 	14 	0 	0 	0 	0 	//Jewel of Soul
+14 	16 	0 	0 	0 	0 	//Jewel of Life
+14 	16 	0 	0 	0 	0 	//Jewel of Life
+14 	22 	0 	0 	0 	0 	//Jewel of Creation

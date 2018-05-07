@@ -1,0 +1,45 @@
+//-------------------------------------------------------//
+//		Proyecto OGC-Files V. 1.0                //
+//   Version GS 1.00.18 Y GS-CS 1.00.19 Protocolo Eng    //
+//           http://www.ogc-files.com.ar                 //
+//-------------------------------------------------------//
+//                    Code By ElChapu                    //
+//             http://www.ogc-soft.com                   //
+//-------------------------------------------------------//
+//    OGC-Files Team: ElChapu, xCUERVOX, LucasTocxy      //
+//-------------------------------------------------------//
+//Information: Warps Menu Load (Max 30) 
+
+
+//index	Movename(kor)	Movename(eng)	Zen	Level	GateNumber
+0	Arena		Stadium		2000	180	50
+1	Lorencia	Lorencia	2000	10	17
+2	Noria		Noria		2000	10	27
+3	Devias		Devias		2000	20	22
+4	Devias2		Devias2		2500	20	72
+5	Devias3		Devias3		3000	20	73
+6	Devias4		Devias4		3500	20	74
+7	Dungeon		Dungeon		3000	30	2
+8	Dungeon2	Dungeon2	3500	40	6
+9	Dungeon3	Dungeon3	4000	50	10
+10	Atlans		Atlans		4000	70	49
+11	Atlans2		Atlans2		4500	80	75
+12	Atlans3		Atlans3		5000	90	76
+13	LostTower	LostTower	5000	50	42
+14	LostTower2	LostTower2	5500	50	31
+15	LostTower3	LostTower3	6000	50	33
+16	LostTower4	LostTower4	6500	60	35
+17	LostTower5	LostTower5	7000	60	37
+18	LostTower6	LostTower6	7500	70	39
+19	LostTower7	LostTower7	8000	70	41
+20	Aida		Aida		15000	130	119
+21	Aida2		Aida2		7500	130	140
+22	Tarkan		Tarkan		8000	140	57
+23    	"Empty"        "Empty"        	2000    10    	17 //This is Empty Because Slot 24 Does not Work
+30	Tarkan2		Tarkan2		8500	140	77
+24	Icarus		Icarus		10000	170	63
+25	Kanturu		Kanturu		12000	160	138
+26	Kanturu2	Kanturu2	15000	160	141
+27	Kanturu3	Kanturu3	15000	230	139
+28	Crywolf		Crywolf		7500	230	118
+29	Valley		Valley		7500	100	117

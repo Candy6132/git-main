@@ -1,0 +1,44 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Death Bone
+//==================================================================================================================
+
+
+//=================================================================================
+//Wepons and Shields
+//Type Index  Level   Skill    Luck   AddOption
+//=================================================================================
+6	12	9	1	1	1	//Bronze Shield
+6	14	9	0	1	1	//Legendary Shield
+5	5	9	0	1	1	//Legendary Staff
+4	5	9	1	1	1	//Silver Bow
+3	9	9	1	1	1	//Bill of Balrog
+0	12	9	1	1	1	//Helical Sword
+0	13	9	1	1	1	//Double Blade
+2	9	9	1	1	1	//Master Scepter
+
+//=================================================================================
+//Sets
+//Type Index  Level   Skill    Exc   AddOption
+//=================================================================================
+//7	1	9	0	0	1	//Dragon Helm
+//8	1	9	0	0	1	//Dragon Armor
+//9	1	9	0	0	1	//Dragon Pants
+//10	1	9	0	0	1	//Dragon Gloves
+//11	1	9	0	0	1	//Dragon Boots
+//7	14	9	0	0	1	//Guardian Helm
+//8	14	9	0	0	1	//Guardian Armor
+//9	14	9	0	0	1	//Guardian Pants
+//10	14	9	0	0	1	//Guardian Gloves
+//11	14	9	0	0	1	//Guardian Boots
+//7	3	9	0	0	1	//Legendary Helm
+//8	3	9	0	0	1	//Legendary Armor
+//9	3	9	0	0	1	//Legendary Pants
+//10	3	9	0	0	1	//Legendary Gloves
+//11	3	9	0	0	1	//Legendary Boots
+//7	26	9	0	0	1	//Adamantine  Helm
+//8	26	9	0	0	1	//Adamantine  Armor
+//9	26	9	0	0	1	//Adamantine  Pants
+//10	26	9	0	0	1	//Adamantine  Gloves
+//11	26	9	0	0	1	//Adamantine  Boots

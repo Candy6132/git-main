@@ -1,0 +1,21 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 11 : Alex
+//==================================================================================================================
+
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+7	6	5	0	0	0	0	0	//Scale Helm
+11	6	5	0	0	0	0	0	//Scale Boots
+6	7	0	0	1	1	2	0	//Spike Shield
+6	9	0	0	1	1	2	0	//Iron Shield
+8	6	5	0	0	0	0	0	//Scale Armor
+10	6	5	0	0	0	0	0	//Scale Gloves
+0	6	0	0	1	1	2	0	//Gladius
+0	7	0	0	1	1	2	0	//Falchin
+2	2	0	0	1	1	2	0	//Iron Hammer
+9	6	5	0	0	0	0	0	//Scale Pants
+
+
+end

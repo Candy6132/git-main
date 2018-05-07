@@ -1,0 +1,55 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 1 : Lumen the Barmaid
+//==================================================================================================================
+
+
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	0	0	255	0	0	0	0	//Apple
+14	20	0	0	0	0	0	0	//Remedy of Love
+12	16	0	0	0	0	0	0	//Fire Slash
+12	21	0	0	0	0	0	0	//Fire Burst Scroll
+14	9	1	0	0	0	0	0	//Ale
+14	6	0	255	0	0	0	0	//Large Mana Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+14	8	0	30	0	0	0	0	//Antidote
+14	8	0	3	0	0	0	0	//Antidote
+12	7	0	0	0	0	0	0	//Twisting Slash Orb
+
+14	18	4	0	0	0	0	0	//Devil Key+4
+14	18	3	0	0	0	0	0	//Devil Key+3
+14	18	2	0	0	0	0	0	//Devil Key+2
+14	18	1	0	0	0	0	0	//Devil Key+1
+14	17	4	0	0	0	0	0	//Devil Eye+4
+14	17	3	0	0	0	0	0	//Devil Eye+3
+14	17	2	0	0	0	0	0	//Devil Eye+2
+14	17	1	0	0	0	0	0	//Devil Eye+1
+
+13	17	5	0	0	0	0	0	//Blood Bone+5
+13	16	5	0	0	0	0	0	//Archangel Scroll+5
+14	9	11	0	0	0	0	0	//Ale
+14	9	9	0	0	0	0	0	//Ale
+14	9	7	0	0	0	0	0	//Ale
+14	9	5	0	0	0	0	0	//Ale
+14	9	3	0	0	0	0	0	//Ale
+14	9	0	0	0	0	0	0	//Ale
+
+13	17	4	0	0	0	0	0	//Blood Bone+4
+13	16	4	0	0	0	0	0	//Archangel Scroll+4
+13	17	3	0	0	0	0	0	//Blood Bone+3
+13	16	3	0	0	0	0	0	//Archangel Scroll+3
+13	17	2	0	0	0	0	0	//Blood Bone+2
+13	16	2	0	0	0	0	0	//Archangel Scroll+2
+13	17	1	0	0	0	0	0	//Blood Bone+1
+13	16	1	0	0	0	0	0	//Archangel Scroll+1
+13	29	0	0	0	0	0	0	//Chaos Castle Armor
+14	23	1	0	0	0	0	0	// RoH
+14	24	1	0	0	0	0	0	// Dark Stone
+13	10	3	0	0	0	0	0	// poison bull ring
+end

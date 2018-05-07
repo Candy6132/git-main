@@ -1,0 +1,47 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 10 : Noria Elf Lala
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	2	0	255	0	0	0	0	//Medium Healing Potion
+14	1	0	255	0	0	0	0	//Samll Healing Potion
+14	0	0	255	0	0	0	0	//Apple
+12	17	0	0	0	0	0	0	//Orb of Penetration
+12	8	0	0	0	0	0	0	//Healing Orb
+12	9	0	0	0	0	0	0	//Orb of Greater Defence
+12	10	0	0	0	0	0	0	//Orb of Greater Damage
+14	6	0	255	0	0	0	0	//Large Mana Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+14	8	0	30	0	0	0	0	//Antidote
+12	11	0	0	0	0	0	0	//Orb Goblin
+12	11	1	0	0	0	0	0	//Orb Golem
+12	11	2	0	0	0	0	0	//Orb Assasin
+12	11	3	0	0	0	0	0	//Orb Yeti
+								
+7	10	5	0	0	0	0	0	//Vine Helm
+7	11	5	0	0	0	0	0	//Silk Helm
+7	12	5	0	0	0	0	0	//Wind Helm
+6	3	0	0	0	0	2	0	//Fairy Shield
+8	10	5	0	0	0	0	0	//Vine Armor
+8	11	5	0	0	0	0	0	//Silk Armor
+8	12	5	0	0	0	0	0	//Wind Armor
+6	16	0	0	0	0	2	0	//Elemental Shield
+9	10	5	0	0	0	0	0	//Vine Pants
+9	11	5	0	0	0	0	0	//Silk Pants
+9	12	5	0	0	0	0	0	//Wind Pants
+1	4	0	0	0	1	0	0	//Fairy Axe
+0	0	0	0	0	1	0	0	//Kris
+11	10	5	0	0	0	0	0	//Vine Boots
+11	11	5	0	0	0	0	0	//Silk Boots
+11	12	5	0	0	0	0	0	//Wind Boots
+14	9	1	0	0	0	0	0	//Ale
+10	10	5	0	0	0	0	0	//Vine Gloves
+10	11	5	0	0	0	0	0	//Silk Gloves
+10	12	5	0	0	0	0	0	//Wind Gloves
+
+
+end

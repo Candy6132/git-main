@@ -1,0 +1,38 @@
+//==================================================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: Shop 2 : Pasi the Mage
+//==================================================================================================================
+//  Type	Index	Level	Durab	Skill	Luck	Option	EXC
+
+
+7	2	5	0	0	0	0	0	//Pad Helm
+7	4	5	0	0	0	0	0	//Bone Helm
+5	1	0	0	0	1	2	0	//Angelic Staff
+15	3	0	0	0	0	0	0	//Fireball Scroll
+15	10	0	0	0	0	0	0	//Power Wave Scroll
+8	2	5	0	0	0	0	0	//Pad Armor
+8	4	5	0	0	0	0	0	//Bone Armor
+15	2	0	0	0	0	0	0	//Lightning Scroll
+15	5	0	0	0	0	0	0	//Teleport Scroll
+5	2	0	0	0	1	2	0	//Serpent Staff
+9	2	5	0	0	0	0	0	//Pad Pants
+9	4	5	0	0	0	0	0	//Bone Pants
+15	1	0	0	0	0	0	0	//Meteor Scroll
+15	6	0	0	0	0	0	0	//Ice Scroll
+11	2	5	0	0	0	0	0	//Pad Boots
+11	4	5	0	0	0	0	0	//Bone Boots
+15	7	0	0	0	0	0	0	//Twister Scroll
+15	8	0	0	0	0	0	0	//Evil Spirits Scroll
+15	0	0	0	0	0	0	0	//Poison Scroll
+15	4	0	0	0	0	0	0	//Flame Scroll
+10	2	5	0	0	0	0	0	//Pad Gloves
+10	4	5	0	0	0	0	0	//Bone Gloves
+5	0	0	0	0	1	2	0	//Skull Staff
+14	6	0	255	0	0	0	0	//Large Mana Potion
+14	5	0	255	0	0	0	0	//Medium Mana Potion
+14	4	0	255	0	0	0	0	//Samll Mana Potion
+14	8	0	3	0	0	0	0	//Antidote
+
+
+end

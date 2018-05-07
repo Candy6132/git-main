@@ -1,0 +1,51 @@
+//=====================================================================================
+//Project: MMTeam - Season II English
+//Version: GameServer 1.00.18 & 1.00.19
+//Information: MMT Item Drop Rate Configuration
+//
+//Max Items = 1000
+//Rate = n/10000
+//5001 - 6000 starts dropping fast. High Drop rates have been placed here for testing Purpose(please change)
+//MonsterMinLvl = Minimum monster level item will drop from
+//MonsterMaxLvl = Maximum monster level item will drop from 
+//Exc = Excellence Option Max is 63 same as /drop Command
+//Ancient: Item is ancient = 5 
+//=====================================================================================
+
+//=================================================================================================================================
+//Type	Index	Level	Opt	Luck	Skill	Dur	Rate	MonsterMinLvl	MonsterMaxLvl	Exc	Ancient
+//=================================================================================================================================
+12	15	0	0	0	0	0	100	    12		200		0	0	//Jewel of Chaos
+14	13	0	0	0	0	0	130	    25		200		0	0	//Jewel of Bless
+14	14	0	0	0	0	0	126	    30		200		0	0	//Jewel of Soul
+14	16	0	0	0	0	0	350	    72		200		0	0	//Jewel of Life
+14	22	0	0	0	0	0	350	    78		200		0	0	//Jewel of Creation
+14	41	0	0	0	0	0	350	    60		200		0	0	//Gemstone
+//13	14	0	0	0	0	0	300	    78		200		0	0	//Loch's Feather
+
+//Soram 10%
+0	22	0	0	0	1	0	267	    153		153		0	0	//Bone Blade
+0	22	0	0	1	1	0	133	    153		153		0	0	//Bone Blade
+2	14	0	0	0	1	0	133	    153		153		0	0	//Soleil Scepter
+2	14	0	0	1	1	0	67	    153		153		0	0	//Soleil Scepter
+8	29	0	0	0	1	0	133	    153		153		0	0	//Dragon Knight Armor
+8	29	0	0	1	1	0	67	    153		153		0	0	//Dragon Knight Armor
+8	33	0	0	0	1	0	133	    153		153		0	0	//Sunlight Armor
+8	33	0	0	1	1	0	67	    153		153		0	0	//Sunlight Armor
+
+//Balram 20%
+4	21	0	0	0	1	0	666	    151		151		0	0	//Sylph Wind Bow
+4	21	0	0	1	1	0	333	    151		151		0	0	//Sylph Wind Bow
+8	31	0	0	0	1	0	666	    151		151		0	0	//Sylphid Ray Armor
+8	31	0	0	1	1	0	333	    151		151		0	0	//Sylphid Ray Armor
+
+//Death Spirit 20%
+0	23	0	0	0	1	0	333	    152		152		0	0	//Explosion Blade
+0	23	0	0	1	1	0	166	    152		152		0	0	//Explosion Blade
+5	12	0	0	0	1	0	333	    152		152		0	0	//Grand Viper Staff
+5	12	0	0	1	1	0	166	    152		152		0	0	//Grand Viper Staff
+8	32	0	0	0	1	0	333	    152		152		0	0	//Volcano Armor
+8	32	0	0	1	1	0	166	    152		152		0	0	//Volcano Armor
+8	30	0	0	0	1	0	333	    152		152		0	0	//Venom Mist Armor
+8	30	0	0	1	1	0	166	    152		152		0	0	//Venom Mist Armor
+end
