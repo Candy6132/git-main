@@ -29,9 +29,9 @@ OGC_News7 = Using multidepo may lead to item
 OGC_News8 = loss. You are using this for your
 OGC_News9 = own risk!
 
-OGC_News10 = Current Event: Ancient Bali
-OGC_News11 = Find Bali in Noria and loot
-OGC_News12 = his treasure!
+OGC_News10 = TIP: Przyciski Q, W, E mozesz
+OGC_News11 = zbindowac, przyklad: najedz w eq
+OGC_News12 = na potke i wcisnij CTRL + Q
 
 OGC_News13 = Uzywanie multidepo jest zabronine!
 OGC_News14 = Mozesz przez to stracic itemy.
