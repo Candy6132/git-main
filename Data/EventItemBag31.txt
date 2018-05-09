@@ -28,7 +28,7 @@ end
 //EventName 	DropZen     EventItemType  EventItemIndex   EventItemLevel  EventItemDropRate 	ItemDropRate ExItemDropRate
 //=========================================================================================================================
 1
-"Balgass"	1000000		0		0		0		0		50		500
+"Balgass"	1000000		0		0		0		0		100		0
 end
 
 

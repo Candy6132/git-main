@@ -28,43 +28,43 @@ end
 //EventName 	DropZen     EventItemType  EventItemIndex   EventItemLevel  EventItemDropRate 	ItemDropRate ExItemDropRate
 //=========================================================================================================================
 1
-"DarkElf"	1000000		0		0		0		0		50		500
+"DarkElf"	1000000		0		0		0		0		100		250
 end
 
 //=================================================================================
 //Type Index  MinLevel MaxLevel Skill  Luck  AddOption  Exitemflag
 //=================================================================================
 2
-//10	29	9	10	0	1	1	0	//Dragon Knight Gloves
-//11	29	9	10	0	1	1	0	//Dragon Knight Boots
-//10	30	9	10	0	1	1	0	//Venom Mist Gloves
-//11	30	9	10	0	1	1	0	//Venom Mist Boots
-//10	31	9	10	0	1	1	0	//Sylphid Ray Gloves
-//11	31	9	10	0	1	1	0	//Sylphid Ray Boots
-//10	33	9	10	0	1	1	0	//Sunlight Gloves
-//11	33	9	10	0	1	1	0	//Sunlight Boots
-//10	32	9	10	0	1	1	0	//Volcano Gloves
-//11	32	9	10	0	1	1	0	//Volcano Boots
-//7	29	9	10	0	1	1	0	//Dragon Knight Helm
-//9	29	9	10	0	1	1	0	//Dragon Knight Pants
-//7	30	9	10	0	1	1	0	//Venom Mist Helm
-//9	30	9	10	0	1	1	0	//Venom Mist Pants
-//7	31	9	10	0	1	1	0	//Sylphid Ray Helm
-//9	31	9	10	0	1	1	0	//Sylphid Ray Pants
-//7	33	9	10	0	1	1	0	//Sunlight Helm
-//9	33	9	10	0	1	1	0	//Sunlight Pants
-//9	32	9	10	0	1	1	0	//Volcano Pants
-//8	29	9	10	0	1	1	0	//Dragon Knight Armor
-//8	30	9	10	0	1	1	0	//Venom Mist Armor
-//8	31	9	10	0	1	1	0	//Sylphid Ray Armor
-//8	33	9	10	0	1	1	0	//Sunlight Armor
-//8	32	9	10	0	1	1	0	//Volcano Armor
-//0	22	7	9	1	1	1	0	//Bone Blade
-//0	23	7	9	1	1	1	0	//Explosion Blade
-//5	12	7	9	0	1	1	0	//Grand Viper Staff
-//4	21	7	9	1	1	1	0	//Sylph Wind Bow
-//2	13	7	9	1	1	1	0	//Divine Scepter of Archangel
-//2	14	7	9	1	1	1	0	// Soleil Scepter
+10	29	9	10	0	1	1	0	//Dragon Knight Gloves
+11	29	9	10	0	1	1	0	//Dragon Knight Boots
+10	30	9	10	0	1	1	0	//Venom Mist Gloves
+11	30	9	10	0	1	1	0	//Venom Mist Boots
+10	31	9	10	0	1	1	0	//Sylphid Ray Gloves
+11	31	9	10	0	1	1	0	//Sylphid Ray Boots
+10	33	9	10	0	1	1	0	//Sunlight Gloves
+11	33	9	10	0	1	1	0	//Sunlight Boots
+10	32	9	10	0	1	1	0	//Volcano Gloves
+11	32	9	10	0	1	1	0	//Volcano Boots
+7	29	9	10	0	1	1	0	//Dragon Knight Helm
+9	29	9	10	0	1	1	0	//Dragon Knight Pants
+7	30	9	10	0	1	1	0	//Venom Mist Helm
+9	30	9	10	0	1	1	0	//Venom Mist Pants
+7	31	9	10	0	1	1	0	//Sylphid Ray Helm
+9	31	9	10	0	1	1	0	//Sylphid Ray Pants
+7	33	9	10	0	1	1	0	//Sunlight Helm
+9	33	9	10	0	1	1	0	//Sunlight Pants
+9	32	9	10	0	1	1	0	//Volcano Pants
+8	29	9	10	0	1	1	0	//Dragon Knight Armor
+8	30	9	10	0	1	1	0	//Venom Mist Armor
+8	31	9	10	0	1	1	0	//Sylphid Ray Armor
+8	33	9	10	0	1	1	0	//Sunlight Armor
+8	32	9	10	0	1	1	0	//Volcano Armor
+0	22	7	9	1	1	1	0	//Bone Blade
+0	23	7	9	1	1	1	0	//Explosion Blade
+5	12	7	9	0	1	1	0	//Grand Viper Staff
+4	21	7	9	1	1	1	0	//Sylph Wind Bow
+2	13	7	9	1	1	1	0	//Divine Scepter of Archangel
+2	14	7	9	1	1	1	0	// Soleil Scepter
 
 7	21	0	0	0	1	1	1	//Red Phoenix Helm
 9	21	0	0	0	1	1	1	//Red Phoenix Pants
