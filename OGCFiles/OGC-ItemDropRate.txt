@@ -37,4 +37,16 @@
 4	22	0	0	1	1	0	250	    122		122		0	0	//Albatross Bow
 5	9	0	0	1	1	0	250	    122		122		0	0	//Dragon Soul Staff
 5	13	0	0	1	1	0	250	    122		122		0	0	//Platina Staff
+
+//Relics of Kundun Drop:
+0	22	0	0	1	1	0	800	    150		150		0	0	//Bone Blade
+0	23	0	0	1	1	0	800	    150		150		0	0	//Explosion Blade
+2	13	0	0	1	1	0	800	    150		150		0	0	//Divine Scepter
+4	21	0	0	1	1	0	800	    150		150		0	0	//Sylph Wind Bow
+5	12	0	0	1	0	0	800	    150		150		0	0	//Grand Viper Staff
+8	29	0	0	1	0	0	800	    150		150		0	0	//Dragon Knight Armor
+8	30	0	0	1	0	0	800	    150		150		0	0	//Venom Mist Armor
+8	31	0	0	1	0	0	800	    150		150		0	0	//Sylphid Ray Armor
+8	32	0	0	1	0	0	800	    150		150		0	0	//Volcano Armor
+8	33	0	0	1	0	0	800	    150		150		0	0	//Sunlight Armor
 end
